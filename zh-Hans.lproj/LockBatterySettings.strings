@@ -5,13 +5,13 @@
 
 		BATTERY_POSITION = "电池高度";
 		CUSTOM_BATTERY_POSITION = "自定义电池位置";
-		PRECISE_BATTERY_POSITION = "电池准确位置";
+		PRECISE_BATTERY_POSITION = "当前位置";
 		CUSTOM_BATTERY_TEXT_POSITION = "自定义电池文字位置";
-		PRECISE_BATTERY_TEST_POSITION = "电池文字准确位置";
-		STOP_FADE_OUT = "禁止电池在锁屏的淡出效果";
-		DISABLE_FADE_OUT_TIMER = "禁止电池淡出效果时长";
-		HIDE_BATTERY_TEXT = "隐藏电池文字";
-		HIDE_BATTERYVIEW = "隐藏电池样式";
+		PRECISE_BATTERY_TEST_POSITION = "当前位置";
+		STOP_FADE_OUT = "禁止“正在充电”的淡入效果";
+		DISABLE_FADE_OUT_TIMER = "充电时始终显示电量";
+		HIDE_BATTERY_TEXT = "隐藏“正在充电”文字";
+		HIDE_BATTERYVIEW = "隐藏“正在充电”";
 
 		BATTERYVIEW_TITLE = "电池样式设置";
 }

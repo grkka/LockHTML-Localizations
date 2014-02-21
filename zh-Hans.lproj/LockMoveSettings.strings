@@ -3,17 +3,17 @@
 
 		/* WidgetAction Settings */
 
-		FADE_WHILE_SCROLLING_FOOTER = "在锁屏滑动时隐藏小部件";
-		FADE_WHILE_SCROLLING = "滑动时隐藏小部件";
+		FADE_WHILE_SCROLLING_FOOTER = "在锁屏滑动时淡化小部件";
+		FADE_WHILE_SCROLLING = "滑动时淡化小部件";
 
-		FADE_WHILE_CHARGING_FOOTER = "显示”正在充电“时隐藏小部件";
-		FADE_WHILE_CHARGING = "充电时隐藏小部件";
+		FADE_WHILE_CHARGING_FOOTER = "显示“正在充电”时淡化小部件";
+		FADE_WHILE_CHARGING = "充电时淡化小部件";
 
-		FADE_WITH_CONTROL_CENTER_FOOTER = "出现控制中心时隐藏小部件";
-		FADE_WITH_CONTROL_CENTER = "控制中心出现时隐藏小部件";
+		FADE_WITH_CONTROL_CENTER_FOOTER = "出现控制中心时淡化小部件";
+		FADE_WITH_CONTROL_CENTER = "拉起控制中心时淡化小部件";
 
-		FADE_WITH_NOTIFICATIONS_FOOTER = "有新通知时隐藏小部件或下方的通知项目";
-		FADE_WITH_NOTIFICATIONS = "有新通知时隐藏小部件";
+		FADE_WITH_NOTIFICATIONS_FOOTER = "有新通知时淡化小部件或通知的下一层";
+		FADE_WITH_NOTIFICATIONS = "有新通知时淡化小部件";
 
-		WIDGET_ACTIONS_TITLE = "HTML 动作";
+		WIDGET_ACTIONS_TITLE = "HTML 行为";
 }

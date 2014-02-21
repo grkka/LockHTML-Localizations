@@ -3,8 +3,8 @@
 
 		/* Advanced Settings */
 
-		HIDE_THEME_HEADER = "隐藏主题文件夹";
-		HIDE_THEME_FOOTER = "允许您隐藏插件所有主题文件夹.";
+		HIDE_THEME_HEADER = "隐藏主题";
+		HIDE_THEME_FOOTER = "允许您隐藏插件路径中的所有主题";
 
 		HIDE_LOCKHTML_THEMES = "隐藏 LockHTML 主题";
 		HIDE_WINTERBOARD_THEMES = "隐藏 WinterBoard 主题";
@@ -18,8 +18,9 @@
 		DISABLE_EDIT_MODE = "禁用编辑模式";
 		ONLY_Y_AXIS = "仅 Y 轴";
 
-		CACHED_MODE_FOOTER = "如您的小部件未能正常启用，请重新注销主屏幕。";
+		CACHED_MODE_FOOTER = "恢复v1.3前的缓存样式。如您的小部件未能正常启用，请重新注销主屏幕。";
 		CACHED_MODE = "缓存模式";
+		DISABLE_LS_TIMEOUT = "禁止锁屏变暗"
 
-		ADVANCED_TITLE = "高级设置";
+		ADVANCED_TITLE = "高级";
 }

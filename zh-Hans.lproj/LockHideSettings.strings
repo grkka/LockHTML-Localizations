@@ -5,8 +5,8 @@
 
 		HIDE_CONTROL_CENTER_GRABBER = "隐藏控制中心 Grabber";
 		HIDE_NOTIFICATION_CENTER_GRABBER = "隐藏通知中心 Grabber";
-		CUSTOM_CAMERA_GRABBER = "自定义照相机 Grabber";
-		HIDE_CAMERA_GRABBER = "隐藏 Grabber";
+		CUSTOM_CAMERA_GRABBER = "自定义相机图标";
+		HIDE_CAMERA_GRABBER = "隐藏相机图标";
 		HIDE_UNLOCK_CHEVRON = "隐藏解锁箭头";
 		HIDE_UNLOCK_TEXT = "隐藏解锁文字";
 		HIDE_DATE_ONLY = "仅隐藏日期";

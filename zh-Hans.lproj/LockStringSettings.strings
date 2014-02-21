@@ -3,8 +3,8 @@
 
 		/* Custom Strings Settings */
 
-		CUSTOM_SLIDE_TO_UNLOCK_STRING = "自定义“滑动以解锁”文本";
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "自定义“滑动以解锁”文字";
 		CUSTOM_LEGAL_STRING = "自定义合法串";
 
-		CUSTOM_STRINGS_TITLE = "自定义文本设置";
+		CUSTOM_STRINGS_TITLE = "自定义文字";
 }
