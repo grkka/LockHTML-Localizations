@@ -1,0 +1,17 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* BatterView Settings */
+
+		BATTERY_POSITION = "Battery Height";
+		CUSTOM_BATTERY_POSITION = "Custom Battery Location";
+		PRECISE_BATTERY_POSITION = "Exact Battery Location";
+		CUSTOM_BATTERY_TEXT_POSITION = "Custom Battery Text Location";
+		PRECISE_BATTERY_TEST_POSITION = "Exact Battery Text Location";
+		STOP_FADE_OUT = "Stop LS FadeOut For Battery";
+		DISABLE_FADE_OUT_TIMER = "Disable Battery FadeOut Timer";
+		HIDE_BATTERY_TEXT = "Hide Battery Text";
+		HIDE_BATTERYVIEW = "Hide BatteryView";
+
+		BATTERYVIEW_TITLE = "Battery Settings";
+}

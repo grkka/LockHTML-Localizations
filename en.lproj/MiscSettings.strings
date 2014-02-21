@@ -1,0 +1,37 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "Disable Overlay Blur";
+		DISABLE_OVERLAY_TINT = "Disable Overlay Tint";
+		SHOW_STATUSBAR_TIME = "Show StatusBar Time";
+		HIDE_STATUSBAR = "Hide StatusBar";
+		SMALL_STATUSBAR = "Small StatusBar";
+		HALF_HIDE_GRABBERS = "Partially Hide Grabbers";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "Custom LS Timeout";
+		5_SECONDS = "5 Seconds";
+		6_SECONDS = "6 Seconds";
+		7_SECONDS = "7 Seconds";
+		8_SECONDS = "8 Seconds";
+		9_SECONDS = "9 Seconds";
+		10_SECONDS = "10 Seconds";
+		15_SECONDS = "15 Seconds";
+		20_SECONDS = "20 Seconds";
+		25_SECONDS = "25 Seconds";
+		30_SECONDS = "30 Seconds";
+		35_SECONDS = "35 Seconds";
+		40_SECONDS = "40 Seconds";
+		45_SECONDS = "45 Seconds";
+		50_SECONDS = "50 Seconds";
+		55_SECONDS = "55 Seconds";				
+		1_MINUTE = "1 Minute";
+		2_MINUTES = "2 Minutes";
+		3_MINUTES = "3 Minutes";
+		4_MINUTES = "4 Minutes";
+		5_MINUTES = "5 Minutes";
+		10_MINUTES = "10 Minutes";
+		1_HOUR = "1 Hour";	
+
+		MISC_TITLE ="Misc Settings";
+}

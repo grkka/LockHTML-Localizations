@@ -1,0 +1,25 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "Hide Theme Folders";
+		HIDE_THEME_FOOTER = "Allows you to hide an entire tweaks folder of themes.";
+
+		HIDE_LOCKHTML_THEMES = "Hide LockHTML Themes";
+		HIDE_WINTERBOARD_THEMES = "Hide WinterBoard Themes";
+		HIDE_PERPAGEHTML_THEMES = "Hide PerPageHTML Themes";
+		HIDE_IWIDGET_THEMES = "Hide iWidget Themes";
+		HIDE_GROOVYLOCK_THEMES = "Hide GroovyLock Themes";
+		HIDE_WIDGETHTML = "Hide Widget.html";
+		HIDE_LOCKBACKGROUNDHTML = "Hide LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "Set Widget Coordinates";
+		DISABLE_EDIT_MODE = "Disable Edit Mode";
+		ONLY_Y_AXIS = "Only Y Axis";
+
+		CACHED_MODE_FOOTER = "You may have issues with widgets not updating properly. Requires Respring.";
+		CACHED_MODE = "Cached Mode";
+
+		ADVANCED_TITLE = "Advanced";
+}
