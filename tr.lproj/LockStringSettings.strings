@@ -1,0 +1,10 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Özel 'kilidi açmak için kaydır' metni.";
+		CUSTOM_LEGAL_STRING = "Özel Alt Metin";
+
+		CUSTOM_STRINGS_TITLE = "Özel Metin Ayarları";
+}

@@ -1,0 +1,12 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "Şimdi Çalıyor ekranı açıkken bildirimler orjinal konumuna döner.";
+		NOTIFICATION_TO_THE_TOP = "Bildirimleri Yukarı Çek";
+		FULLSCREEN_NOTIFICATIONS = "Tam Ekran Bildirimler";
+		CUSTOM_NOTIFICATION_START = "Özel Bildirim Başlangıcı Konumu";
+		HIDE_NOTIFICATION_SEPARATORS = "KE Ayraçlarını Gizle";
+		NOTIFICATIONS_TITLE = "Bildirim Ayarları";
+}

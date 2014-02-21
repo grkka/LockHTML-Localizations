@@ -1,0 +1,19 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* WidgetAction Settings */
+
+		FADE_WHILE_SCROLLING_FOOTER = "Kilit Ekranını Kaydırırken Widgetı Soluklaştırır.";
+		FADE_WHILE_SCROLLING = "Kaydırırken Soluklaştır";
+
+		FADE_WHILE_CHARGING_FOOTER = "Pil Göstergesi Görünürken Widgetı Soluklaştırır";
+		FADE_WHILE_CHARGING = "Pil Dolarken Soluklaştır";
+
+		FADE_WITH_CONTROL_CENTER_FOOTER = "Kontrol Merkezini Kaldırırken Widgetı Soluklaştırır";
+		FADE_WITH_CONTROL_CENTER = "Kontrol Merkeziyle Soluklaştır";
+
+		FADE_WITH_NOTIFICATIONS_FOOTER = "Bildirim varken Widgetı Soluklaştırır. Sadece iWidgetlar veya Bildirimlerin Altında seçeneği kapalıyken önerilir.";
+		FADE_WITH_NOTIFICATIONS = "Bildirimle Soluklaştır";
+
+		WIDGET_ACTIONS_TITLE = "HTML Hareketleri";
+}

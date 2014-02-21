@@ -1,0 +1,19 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* WidgetAction Settings */
+
+		FADE_WHILE_SCROLLING_FOOTER = "Dissolvi il Widget quando scorri sulla LockScreen";
+		FADE_WHILE_SCROLLING = "Dissolvi Mentre Scorri";
+
+		FADE_WHILE_CHARGING_FOOTER = "Dissolvi il Widget quando la Batteria è visibile";
+		FADE_WHILE_CHARGING = "Dissolvi in Carica";
+
+		FADE_WITH_CONTROL_CENTER_FOOTER = "Dissolvi il Widget quando richiami il Control Center";
+		FADE_WITH_CONTROL_CENTER = "Dissolvi con Control Center";
+
+		FADE_WITH_NOTIFICATIONS_FOOTER = "Dissolvi il Widget mentre si ricevono Notifiche";
+		FADE_WITH_NOTIFICATIONS = "Dissolvi con Notifiche";
+
+		WIDGET_ACTIONS_TITLE = "Impostazioni HTML";
+}

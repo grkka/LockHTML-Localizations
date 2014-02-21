@@ -1,0 +1,25 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "Nascondi Cartelle Temi";
+		HIDE_THEME_FOOTER = "Permette di nascondere le cartelle dei temi.";
+
+		HIDE_LOCKHTML_THEMES = "Nascondi Temi LockHTML";
+		HIDE_WINTERBOARD_THEMES = "Nascondi Temi WinterBoard";
+		HIDE_PERPAGEHTML_THEMES = "Nascondi Temi PerPageHTML";
+		HIDE_IWIDGET_THEMES = "Nascondi Temi iWidget";
+		HIDE_GROOVYLOCK_THEMES = "Nascondi Temi GroovyLock";
+		HIDE_WIDGETHTML = "Nascondi Widget.html";
+		HIDE_LOCKBACKGROUNDHTML = "Nascondi LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "Aggiusta Coordinate Widget";
+		DISABLE_EDIT_MODE = "Disabilita Modalità Modifica";
+		ONLY_Y_AXIS = "Solo Asse Y";
+
+		CACHED_MODE_FOOTER = "I widgets potrebbero non aggiornarsi correttamente. Richiede il Respring.";
+		CACHED_MODE = "Modalità Memoria";
+
+		ADVANCED_TITLE = "Avanzate";
+}

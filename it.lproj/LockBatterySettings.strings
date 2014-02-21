@@ -1,0 +1,17 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* BatterView Settings */
+
+		BATTERY_POSITION = "Altezza Batteria";
+		CUSTOM_BATTERY_POSITION = "Riposiziona Batteria";
+		PRECISE_BATTERY_POSITION = "Posizione Esatta Batteria";
+		CUSTOM_BATTERY_TEXT_POSITION = "Riposiziona Percentuale";
+		PRECISE_BATTERY_TEST_POSITION = "Posizione Esatta Percentuale";
+		STOP_FADE_OUT = "Ferma Dissolvenza Batteria";
+		DISABLE_FADE_OUT_TIMER = "Ferma Dissolvenza Percentuale";
+		HIDE_BATTERY_TEXT = "Nascondi Percentuale";
+		HIDE_BATTERYVIEW = "Nascondi Batteria";
+
+		BATTERYVIEW_TITLE = "Impostazioni Batteria";
+}
