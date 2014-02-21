@@ -1,0 +1,16 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "隐藏控制中心 Grabber";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "隐藏通知中心 Grabber";
+		CUSTOM_CAMERA_GRABBER = "自定义照相机 Grabber";
+		HIDE_CAMERA_GRABBER = "隐藏 Grabber";
+		HIDE_UNLOCK_CHEVRON = "隐藏解锁箭头";
+		HIDE_UNLOCK_TEXT = "隐藏解锁文字";
+		HIDE_DATE_ONLY = "仅隐藏日期";
+		HIDE_CLOCK_VIEW = "隐藏时钟";
+
+		HIDE_SETTINGS_TITLE = "隐藏锁屏元素";
+}

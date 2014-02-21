@@ -1,0 +1,12 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "当正在播放时，通知项目会回到初始位置";
+		NOTIFICATION_TO_THE_TOP = "置顶通知项目";
+		FULLSCREEN_NOTIFICATIONS = "全屏显示通知项目";
+		CUSTOM_NOTIFICATION_START = "自定义通知项目";
+		HIDE_NOTIFICATION_SEPARATORS = "隐藏锁屏分隔";
+		NOTIFICATIONS_TITLE = "通知设置";
+}
