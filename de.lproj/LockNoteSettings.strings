@@ -1,0 +1,12 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "Wenn das NowPlaying Plugin aktiviert ist werden alle Mitteilungen zur ursprünglichen Position zurückversetzt";
+		NOTIFICATION_TO_THE_TOP = "Zeige Mitteilungen oben an";
+		FULLSCREEN_NOTIFICATIONS = "Vollbild Mitteilungen";
+		CUSTOM_NOTIFICATION_START = "Eigener Mitteilungspfäfix";
+		HIDE_NOTIFICATION_SEPARATORS = "Trennlinien zwischen Mitteilungen ausblenden";
+		NOTIFICATIONS_TITLE = "Mitteilungseinstellungen";
+}

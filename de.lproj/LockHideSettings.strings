@@ -1,0 +1,16 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "Kontrollzentrum Grabber ausblenden";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "Mitteilungszentrale Grabber ausblenden";
+		CUSTOM_CAMERA_GRABBER = "Eigener Kamera Grabber";
+		HIDE_CAMERA_GRABBER = "Kamera Grabber ausblenden";
+		HIDE_UNLOCK_CHEVRON = "Entsperrpfeil ausblenden";
+		HIDE_UNLOCK_TEXT = "Entsperrtext ausblenden";
+		HIDE_DATE_ONLY = "Datum ausblenden";
+		HIDE_CLOCK_VIEW = "Uhr ausblenden";
+
+		HIDE_SETTINGS_TITLE = "Sperrbildschirm Elemente ausblenden";
+}

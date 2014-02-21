@@ -1,0 +1,10 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Eigener Entsperrtext";
+		CUSTOM_LEGAL_STRING = "Eigener Entsperrtext Untertitel";
+
+		CUSTOM_STRINGS_TITLE = "Text Einstellungen";
+}
