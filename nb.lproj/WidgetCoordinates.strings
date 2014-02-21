@@ -1,0 +1,11 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "X Koordinat";
+		Y_COORDINATE = "Y Koordinat";
+
+		WIDGET_COORDINATES_TITLE = "Widget Plasseringer";
+
+}

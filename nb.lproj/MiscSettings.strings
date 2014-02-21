@@ -1,0 +1,37 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "Deaktiver Overlegg Uskarphet";
+		DISABLE_OVERLAY_TINT = "Deaktiver Overlegg Farvetone";
+		SHOW_STATUSBAR_TIME = "Vis StatusBar Tid";
+		HIDE_STATUSBAR = "Skjul StatusBar";
+		SMALL_STATUSBAR = "liten StatusBar";
+		HALF_HIDE_GRABBERS = "Delvis skjul Grabbers";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "Egendefinert LS Timeout";
+		5_SECONDS = "5 Sekunder";
+		6_SECONDS = "6 Sekunder";
+		7_SECONDS = "7 Sekunder";
+		8_SECONDS = "8 Sekunder";
+		9_SECONDS = "9 Sekunder";
+		10_SECONDS = "10 Sekunder";
+		15_SECONDS = "15 Sekunder";
+		20_SECONDS = "20 Sekunder";
+		25_SECONDS = "25 Sekunder";
+		30_SECONDS = "30 Sekunder";
+		35_SECONDS = "35 Sekunder";
+		40_SECONDS = "40 Sekunder";
+		45_SECONDS = "45 Sekunder";
+		50_SECONDS = "50 Sekunder";
+		55_SECONDS = "55 Sekunder";				
+		1_MINUTE = "1 Minutt";
+		2_MINUTES = "2 Minutter";
+		3_MINUTES = "3 Minutter";
+		4_MINUTES = "4 Minutter";
+		5_MINUTES = "5 Minutter";
+		10_MINUTES = "10 Minutter";
+		1_HOUR = "1 Hour";	
+
+		MISC_TITLE ="Andre Instillinger";
+}

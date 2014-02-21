@@ -1,0 +1,10 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Egendefinert Skyv for å låse opp Tekst";
+		CUSTOM_LEGAL_STRING = "Egendefinert Eigerskap Tekst";
+
+		CUSTOM_STRINGS_TITLE = "Eigendefinerte Tekst Instillinger";
+}

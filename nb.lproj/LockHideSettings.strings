@@ -1,0 +1,16 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "Skjul CC Grabber";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "Skjul NC Grabber";
+		CUSTOM_CAMERA_GRABBER = "Egendefinert Kamera Grabber";
+		HIDE_CAMERA_GRABBER = "Skjul Kamera Grabber";
+		HIDE_UNLOCK_CHEVRON = "Hide Lås opp Chevron";
+		HIDE_UNLOCK_TEXT = "Skjul lås opp Tekst";
+		HIDE_DATE_ONLY = "Skjul Bare Dato";
+		HIDE_CLOCK_VIEW = "Skjul Klokke";
+
+		HIDE_SETTINGS_TITLE = "Skjul LS Elementer";
+}

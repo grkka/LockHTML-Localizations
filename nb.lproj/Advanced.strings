@@ -1,0 +1,25 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "Skjul Tema Mappe";
+		HIDE_THEME_FOOTER = "Skjule en hel tweaks mappe med temaer.";
+
+		HIDE_LOCKHTML_THEMES = "Skjul LockHTML Temaer";
+		HIDE_WINTERBOARD_THEMES = "Skjul WinterBoard Temaer";
+		HIDE_PERPAGEHTML_THEMES = "Skjul PerPageHTML Temaer";
+		HIDE_IWIDGET_THEMES = "Skjul iWidget Temaer";
+		HIDE_GROOVYLOCK_THEMES = "Skjul GroovyLock Temaer";
+		HIDE_WIDGETHTML = "Skjul Widget.html";
+		HIDE_LOCKBACKGROUNDHTML = "Skjul LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "Sett Widget Koordinater";
+		DISABLE_EDIT_MODE = "Slå av Endrings Modus";
+		ONLY_Y_AXIS = "Bare Y Aksen";
+
+		CACHED_MODE_FOOTER = "Dersom du har problemer med at en Widget ikke oppdaterer, prøv å restarte SpringBoardet(Respring)";
+		CACHED_MODE = "Bufret Modus";
+
+		ADVANCED_TITLE = "Avansert";
+}

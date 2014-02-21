@@ -1,0 +1,19 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* WidgetAction Settings */
+
+		FADE_WHILE_SCROLLING_FOOTER = "Dimmer Widget hvis ein blar på LockScreenen";
+		FADE_WHILE_SCROLLING = "Dimm når en blar";
+
+		FADE_WHILE_CHARGING_FOOTER = "Dimmer Widget når ChargingView Viser";
+		FADE_WHILE_CHARGING = "Dimm når en Lader";
+
+		FADE_WITH_CONTROL_CENTER_FOOTER = "Dimmer the Widget når ControlCenter blir åpnet";
+		FADE_WITH_CONTROL_CENTER = "Dimm med ControlCenter";
+
+		FADE_WITH_NOTIFICATIONS_FOOTER = "Dimmer Widget når Påminnelser viser, Anbefalt å skru av når en bruker iWidgets eller Under Påminnelser";
+		FADE_WITH_NOTIFICATIONS = "Dimm med Påminnelser";
+
+		WIDGET_ACTIONS_TITLE = "HTML Handlinger";
+}

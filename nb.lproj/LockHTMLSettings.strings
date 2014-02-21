@@ -1,0 +1,27 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Main Settings */
+
+		THEMES_FOOTER = "Temaer vil bli brukt når du låser iEnheten, og vil ikke kreve en Resping";
+		ENABLE_HTML = "Slå på HTML";
+		SELECT_WIDGET = "Velg Widget";
+
+		WIDGET_POSITION = "Widget Posisjon";
+		BELOW_NOTIFICATIONS = "Under Påminnelser";
+		ABOVE_NOTIFICATIONS = "Over Påminnelser";
+		BACKGROUND_POSITION = "Bakrunn(Touch Disabled)";
+
+		ADVANCED_SETTINGS_HEADER = "Avanserte Instillingar";
+		HIDE_SETTINGS = "Skjul LockScreen Elementer";
+		WIDGET_ACTION_SETTINGS = "Widget Handlinger";
+		NOTIFICATIONS_SETTINGS = "Påminnelser Instillingar";
+		BATTERYVIEW_SETTINGS = "BatteryView Instillingar";
+		CUSTOM_STRING_SETTINGS = "Egendefinert String Instillingar";
+		MISC_SETTINGS = "Andre Instillingar";
+
+		LOCATION_FOOTER = "Vil oppdatere myLocation.txt manuelt for dei som ikke vil bruke myLocation App, Respring når dette er ferdig";
+		LOCATION_BUTTON = "Finn Plassering";
+
+		ADVANCED_SETTINGS = "Avansert";
+}
