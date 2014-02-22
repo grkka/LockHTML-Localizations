@@ -1,0 +1,27 @@
+﻿{
+		LOCKHTML3 = LockHTML3;
+
+		/* Main Settings */
+
+		THEMES_FOOTER = "主題將會在您鎖定設備時生效，無須重啟主螢幕";
+		ENABLE_HTML = "啟用 HTML";
+		SELECT_WIDGET = "選擇小工具";
+
+		WIDGET_POSITION = "小工具位置";
+		BELOW_NOTIFICATIONS = "位於通知之下";
+		ABOVE_NOTIFICATIONS = "位於通知之上";
+		BACKGROUND_POSITION = "位於背景（禁用觸控）";
+
+		ADVANCED_SETTINGS_HEADER = "高級設定";
+		HIDE_SETTINGS = "隱藏鎖定畫面元件";
+		WIDGET_ACTION_SETTINGS = "小工具動作";
+		NOTIFICATIONS_SETTINGS = "通知設定";
+		BATTERYVIEW_SETTINGS = "電池樣式設定";
+		CUSTOM_STRING_SETTINGS = "自訂字串設定";
+		MISC_SETTINGS = "更多設定";
+
+		LOCATION_FOOTER = "如不安裝 myLocation 軟體，則需要您手動更新 myLocation.txt 文件， 請在完成修改後重啟主畫面。";
+		LOCATION_BUTTON = "手動獲取位置";
+
+		ADVANCED_SETTINGS = "高級";
+}

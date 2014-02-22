@@ -1,0 +1,11 @@
+﻿{
+		LOCKHTML3 = LockHTML3;
+
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "X 軸";
+		Y_COORDINATE = "Y 軸";
+
+		WIDGET_COORDINATES_TITLE = "小工具座標";
+
+}
