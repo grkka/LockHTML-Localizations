@@ -1,0 +1,27 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Main Settings */
+
+		THEMES_FOOTER = “Los Temas se Aplicaran Cuando Bloquees tu Dispositivo, sin un Respring “;
+		ENABLE_HTML = “Activa HTML";
+		SELECT_WIDGET = “Selecciona un Widget";
+
+		WIDGET_POSITION = “Posicion del Widget";
+		BELOW_NOTIFICATIONS = “Abajo de las Notificaciones";
+		ABOVE_NOTIFICATIONS = “Arriba de las Notificaciones";
+		BACKGROUND_POSITION = “En el Fondo(Touch Desactivado)”;
+
+		ADVANCED_SETTINGS_HEADER = “Ajustes Avanzados";
+		HIDE_SETTINGS = “Esconde Elementos del Lockscreen";
+		WIDGET_ACTION_SETTINGS = “Acciones del Widget";
+		NOTIFICATIONS_SETTINGS = “Ajustes de Notificaciones";
+		BATTERYVIEW_SETTINGS = “Ajustes de Vista de Bateria";
+		CUSTOM_STRING_SETTINGS = “Ajustes de Texto Personalizado";
+		MISC_SETTINGS = “Ajustes Diversos”;
+
+		LOCATION_FOOTER = “Actualizara myLocation.txt manualmente para los que no quern user myLocation App, un Respring es necesario cuando esto este completado";
+		LOCATION_BUTTON = “Obtén la Ubicación Manualmente";
+
+		ADVANCED_SETTINGS = “Avanzado”;
+}

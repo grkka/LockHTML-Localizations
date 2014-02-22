@@ -1,0 +1,10 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = “Personaliza el texto de Desbloqueo";
+		CUSTOM_LEGAL_STRING = “Personaliza el Texto Legal";
+
+		CUSTOM_STRINGS_TITLE = “Personaliza el Texto de Titulo”;
+}
