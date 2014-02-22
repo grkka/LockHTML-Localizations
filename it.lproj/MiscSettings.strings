@@ -34,4 +34,5 @@
 		1_HOUR = "1 Ora";	
 
 		MISC_TITLE ="Impostazioni Varie";
+		
 }

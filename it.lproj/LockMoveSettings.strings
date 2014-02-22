@@ -16,4 +16,5 @@
 		FADE_WITH_NOTIFICATIONS = "Dissolvi con Notifiche";
 
 		WIDGET_ACTIONS_TITLE = "Impostazioni HTML";
+		
 }

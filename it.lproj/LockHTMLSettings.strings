@@ -24,4 +24,5 @@
 		LOCATION_BUTTON = "Imposta Localizzazione Manualmente";
 
 		ADVANCED_SETTINGS = "Avanzate";
+		
 }
