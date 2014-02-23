@@ -1,0 +1,37 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "≈·€«¡ «·€ÿ«¡ «·÷»«»Ì";
+		DISABLE_OVERLAY_TINT = "≈·€«¡ «·€ÿ«¡ «·„·Ê¯‰";
+		SHOW_STATUSBAR_TIME = "⁄—÷ «·”«⁄… »‘—Ìÿ «·Õ«·…";
+		HIDE_STATUSBAR = "≈Œ›«¡ ‘—Ìÿ «·Õ«·…";
+		SMALL_STATUSBAR = "‘—Ìÿ Õ«·… √’€—";
+		HALF_HIDE_GRABBERS = "≈Œ›«¡ «·ﬁÊ«»÷ Ã“∆Ì¯«";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "„Â·… „Œ’’ ·‘«‘… «·ﬁ›·";
+		5_SECONDS = "5 ÀÊ«‰";
+		6_SECONDS = "6 ÀÊ«‰";
+		7_SECONDS = "7 ÀÊ«‰";
+		8_SECONDS = "8 ÀÊ«‰";
+		9_SECONDS = "9 ÀÊ«‰";
+		10_SECONDS = "10 ÀÊ«‰";
+		15_SECONDS = "15 À«‰Ì…";
+		20_SECONDS = "20 À«‰Ì…";
+		25_SECONDS = "25 À«‰Ì…";
+		30_SECONDS = "30 À«‰Ì…";
+		35_SECONDS = "35 À«‰Ì…";
+		40_SECONDS = "40 À«‰Ì…";
+		45_SECONDS = "45 À«‰Ì…";
+		50_SECONDS = "50 À«‰Ì…";
+		55_SECONDS = "55 À«‰Ì…";				
+		1_MINUTE = "œﬁÌﬁ… Ê«Õœ…";
+		2_MINUTES = "œﬁÌﬁ «‰";
+		3_MINUTES = "3 œﬁ«∆ﬁ";
+		4_MINUTES = "4 œﬁ«∆ﬁ";
+		5_MINUTES = "5 œﬁ«∆ﬁ";
+		10_MINUTES = "10 œﬁ«∆ﬁ";
+		1_HOUR = "”«⁄…";	
+
+		MISC_TITLE ="≈⁄œ«œ«  „ ›—ﬁ…";
+}

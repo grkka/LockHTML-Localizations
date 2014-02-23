@@ -1,0 +1,25 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "енщга ЦлАогй гАкМЦгй";
+		HIDE_THEME_FOOTER = ".гАсЦгм Аъ хенщга ъгЦА цоФгй ЦлАо гАкМЦгй";
+
+		HIDE_LOCKHTML_THEMES = "енщга кМЦгй LockHTML";
+		HIDE_WINTERBOARD_THEMES = "енщга кМЦгй ФМДйяхФяо";
+		HIDE_PERPAGEHTML_THEMES = "PerPageHTML енщга кМЦгй";
+		HIDE_IWIDGET_THEMES = "енщга кМЦгй iWidgets";
+		HIDE_GROOVYLOCK_THEMES = "енщга кМЦгй GroovyLock";
+		HIDE_WIDGETHTML = "Widget.html енщга";
+		HIDE_LOCKBACKGROUNDHTML = "енщга LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "жхь емогкМЬгй гАФолй";
+		DISABLE_EDIT_MODE = "еМчгщ Фжз гАймяМя";
+		ONLY_Y_AXIS = "гАЦмФя гАугоМ щчь";
+
+		CACHED_MODE_FOOTER = "яхЦг АоМъ ЦтъАи зоЦ ймоМк гАФМолй хтъА умМм. ййьАх зЦА яМсхяДч";
+		CACHED_MODE = "Фжз гАйнрМД гАЦдчй";
+
+		ADVANCED_TITLE = "ЦйчоЦ";
+}

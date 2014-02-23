@@ -1,0 +1,10 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "тяМь смх Цнуу Атгти гАчщА";
+		CUSTOM_LEGAL_STRING = "тяМь смх Цнуу";
+
+		CUSTOM_STRINGS_TITLE = "езогогй йнуМу тяМь гАсмх";
+}

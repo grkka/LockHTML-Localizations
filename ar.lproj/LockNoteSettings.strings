@@ -1,0 +1,12 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "ÅÚÇÏÉ ÇבÊהÈםוÇÊ בבזÖÚ ÇבÃÕבם ÚהÏ ÊזÕםב ÓדÇÚÉ ÇבÑÃÓ";
+		NOTIFICATION_TO_THE_TOP = "ÌבÈ ÇבÊהÈםוÇÊ בבÃÚבל";
+		FULLSCREEN_NOTIFICATIONS = "ÊהÈםוÇÊ È‗Çדב ÇבÔÇÔÉ";
+		CUSTOM_NOTIFICATION_START = "ÈÏÇםÉ ÊהÈםו דÎÕÕ";
+		HIDE_NOTIFICATION_SEPARATORS = "ÅÎÝÇÁ ÝזÇÕב ÔÇÔÉ ÇבÞÝב";
+		NOTIFICATIONS_TITLE = "ÅÚÏÇÏÇÊ ÇבÊהÈםוÇÊ";
+}

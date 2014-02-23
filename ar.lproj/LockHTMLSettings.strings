@@ -1,0 +1,27 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Main Settings */
+
+		THEMES_FOOTER = "сМйЦ йьхМч гАкМЦгй зДо ешАгч тгти гАчщА, ФАД МйьАх зЦА яМсхяДч";
+		ENABLE_HTML = "йщзМА HTML";
+		SELECT_WIDGET = "енйМгя ФМолй";
+
+		WIDGET_POSITION = "ЦФчз гАФМолй";
+		BELOW_NOTIFICATIONS = "гАйДхМЕгй гАсщАМи";
+		ABOVE_NOTIFICATIONS = "гАйДхМЕгй гАзАФМи";
+		BACKGROUND_POSITION = "гАнАщМи (йзьМА гААЦс)";
+
+		ADVANCED_SETTINGS_HEADER = "езогогй ЦйчоЦи";
+		HIDE_SETTINGS = "енщга зДгуя тгти гАчщА";
+		WIDGET_ACTION_SETTINGS = "елягагй гАФМолй";
+		NOTIFICATIONS_SETTINGS = "езогогй гАйДхМЕгй";
+		BATTERYVIEW_SETTINGS = "езогогй ЦыЕя гАхьгяМи";
+		CUSTOM_STRING_SETTINGS = "езогогй сАсАи Цнууи";
+		MISC_SETTINGS = "езогогй Цйщячи";
+
+		LOCATION_FOOTER = "ймоМк Ду гАЦФчз МоФМгП АЦД Аг МяМо есйногЦ йьхМч myLocation, чЦ хзЦА яМсхяДч зДо гАеДйЕга";
+		LOCATION_BUTTON = "гАмуФА зАЛ гАЦФчз МоФМЬгП";
+
+		ADVANCED_SETTINGS = "ЦйчоЦ";
+}
