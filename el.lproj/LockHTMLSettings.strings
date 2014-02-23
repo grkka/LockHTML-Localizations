@@ -1,0 +1,27 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Main Settings */
+
+		THEMES_FOOTER = "Τα θέματα θα εφαρμόζονται όταν κλειδώνετε τη συσκευή σας και ΔΕΝ απαιτείται respring";
+		ENABLE_HTML = "Ενεργοποίηση HTML";
+		SELECT_WIDGET = "Επιλογή Widget";
+
+		WIDGET_POSITION = "Θέση Widget";
+		BELOW_NOTIFICATIONS = "Κάτω από τις Γνωστοποιήσεις";
+		ABOVE_NOTIFICATIONS = "Πάνω από τις Γνωστοποιήσεις";
+		BACKGROUND_POSITION = "Φόντο (απενεργοποιεί την αφή)";
+
+		ADVANCED_SETTINGS_HEADER = "Προηγμένες Ρυθμίσεις";
+		HIDE_SETTINGS = "Απόκρυψη στοιχείων Οθόνης Κλειδώματος";
+		WIDGET_ACTION_SETTINGS = "Ενέργειες Widget";
+		NOTIFICATIONS_SETTINGS = "Ρυθμίσεις Γνωστοποιήσεων";
+		BATTERYVIEW_SETTINGS = "Ρυθμίσεις ορατότητας φόρτισης";
+		CUSTOM_STRING_SETTINGS = "Προσαρμοσμένες ρυθμίσεις strings";
+		MISC_SETTINGS = "Διάφορες ρυθμίσεις";
+
+		LOCATION_FOOTER = "Το myLocation.txt θα ανανεωθεί χειροκίνητα για όποιον επιθυμεί να αποφύγει το myLocation App, Επανεκκινήστε τη συσκευή σας όταν ολοκληρωθεί η εργασία";
+		LOCATION_BUTTON = "Χειροκίνητη λήψη τοποθεσίας";
+
+		ADVANCED_SETTINGS = "Προηγμένα";
+}

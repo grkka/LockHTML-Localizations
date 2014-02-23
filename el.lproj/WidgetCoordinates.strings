@@ -1,0 +1,11 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "’ξονας X";
+		Y_COORDINATE = "’ξονας Y";
+
+		WIDGET_COORDINATES_TITLE = "Συντεταγμένες Widget";
+
+}

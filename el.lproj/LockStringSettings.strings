@@ -1,0 +1,10 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Προσαρμοσμένο κειμένο ξεκλειδώματος";
+		CUSTOM_LEGAL_STRING = "Περί νομικών";
+
+		CUSTOM_STRINGS_TITLE = "Προσαρμοσμένες ρυθμίσεις strings";
+}

@@ -1,0 +1,37 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "Απενεργοποιήση θολώματος Overlay";
+		DISABLE_OVERLAY_TINT = "Απενεργοποιήση χροιάς Overlay";
+		SHOW_STATUSBAR_TIME = "Εμφάνιση ώρας στη StatusBar";
+		HIDE_STATUSBAR = "Απόκρυψη StatusBar";
+		SMALL_STATUSBAR = "Μικρή StatusBar";
+		HALF_HIDE_GRABBERS = "Μερική απόκρυψη μοχλών";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "Προσαρμογή χρόνου εξασθένησης Οθόνης Κλειδώματος";
+		5_SECONDS = "5 Δευτερόλεπτα";
+		6_SECONDS = "6 Δευτερόλεπτα";
+		7_SECONDS = "7 Δευτερόλεπτα";
+		8_SECONDS = "8 Δευτερόλεπτα";
+		9_SECONDS = "9 Δευτερόλεπτα";
+		10_SECONDS = "10 Δευτερόλεπτα";
+		15_SECONDS = "15 Δευτερόλεπτα";
+		20_SECONDS = "20 Δευτερόλεπτα";
+		25_SECONDS = "25 Δευτερόλεπτα";
+		30_SECONDS = "30 Δευτερόλεπτα";
+		35_SECONDS = "35 Δευτερόλεπτα";
+		40_SECONDS = "40 Δευτερόλεπτα";
+		45_SECONDS = "45 Δευτερόλεπτα";
+		50_SECONDS = "50 Δευτερόλεπτα";
+		55_SECONDS = "55 Δευτερόλεπτα";				
+		1_MINUTE = "1 Λεπτό";
+		2_MINUTES = "2 Λεπτά";
+		3_MINUTES = "3 Λεπτά";
+		4_MINUTES = "4 Λεπτά";
+		5_MINUTES = "5 Λεπτά";
+		10_MINUTES = "10 Λεπτά";
+		1_HOUR = "1 Ώρα";	
+
+		MISC_TITLE ="Διάφορες Ρυθμίσεις";
+}

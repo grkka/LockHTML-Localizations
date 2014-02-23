@@ -1,0 +1,17 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* BatterView Settings */
+
+		BATTERY_POSITION = "Θέση ύψους μπαταρίας";
+		CUSTOM_BATTERY_POSITION = "Προσαρμοσμένη θέση μπαταρίας";
+		PRECISE_BATTERY_POSITION = "Ακριβής θέση μπαταρίας";
+		CUSTOM_BATTERY_TEXT_POSITION = "Προσαρμοσμένη θέση κειμένου μπαταρίας";
+		PRECISE_BATTERY_TEST_POSITION = "Ακριβής θέση κειμένου μπαταρίας";
+		STOP_FADE_OUT = "Διακοπή εξασθένησης ορατότητας μπαταρίας στην Οθόνη Κλειδώματος";
+		DISABLE_FADE_OUT_TIMER = "Απενεργοποίηση εξασθένησης χρόνου ορατότητας μπαταρίας";
+		HIDE_BATTERY_TEXT = "Απόκρυψη κειμένου μπαταρίας";
+		HIDE_BATTERYVIEW = "Απόκρυψη μπαταρίας";
+
+		BATTERYVIEW_TITLE = "Ρυθμίσεις ορατότητας μπαταρίας";
+}

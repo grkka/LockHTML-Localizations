@@ -1,0 +1,25 @@
+﻿{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "Απόκρυψη φακέλων θεμάτων";
+		HIDE_THEME_FOOTER = "Σας επιτρέπει να αποκρύψετε ολόκληρο τον φάκελο κάποιου tweak θεμάτων.";
+
+		HIDE_LOCKHTML_THEMES = "Απόκρυψη θεμάτων LockHTML";
+		HIDE_WINTERBOARD_THEMES = "Απόκρυψη θεμάτων WinterBoard";
+		HIDE_PERPAGEHTML_THEMES = "Απόκρυψη θεμάτων PerPageHTML";
+		HIDE_IWIDGET_THEMES = "Απόκρυψη θεμάτων iWidget";
+		HIDE_GROOVYLOCK_THEMES = "Απόκρυψη θεμάτων GroovyLock";
+		HIDE_WIDGETHTML = "Απόκρυψη θεμάτων Widget.html";
+		HIDE_LOCKBACKGROUNDHTML = "Απόκρυψη LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "Ορίστε τις συντεταγμένες του Widget";
+		DISABLE_EDIT_MODE = "Απενεργοποίηση επεξεργασίας θέσης";
+		ONLY_Y_AXIS = "Μόνο στον άξονα Y";
+
+		CACHED_MODE_FOOTER = "Ενδέχεται να παρουσιαστούν προβλήματα στις ανανεώσεις των widgets. Απαιτείται Respring.";
+		CACHED_MODE = "Διατήρηση στην Cache";
+
+		ADVANCED_TITLE = "Προχωρημένα";
+}
