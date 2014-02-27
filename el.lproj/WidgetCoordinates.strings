@@ -3,9 +3,9 @@
 
 		/* Widget Coordinates Settings */
 
-		X_COORDINATE = "Άξονας X";
-		Y_COORDINATE = "Άξονας Y";
+		X_COORDINATE = "Ξ†ΞΎΞΏΞ½Ξ±Ο‚ X";
+		Y_COORDINATE = "Ξ†ΞΎΞΏΞ½Ξ±Ο‚ Y";
 
-		WIDGET_COORDINATES_TITLE = "Συντεταγμένες Widget";
+		WIDGET_COORDINATES_TITLE = "Ξ£Ο…Ξ½Ο„ΞµΟ„Ξ±Ξ³ΞΌΞ­Ξ½ΞµΟ‚ Widget";
 
 }
