@@ -3,8 +3,8 @@
 
 		/* Custom Strings Settings */
 
-		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Προσαρμοσμένο κειμένο ξεκλειδώματος";
-		CUSTOM_LEGAL_STRING = "Περί νομικών";
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Ξ ΟΞΏΟƒΞ±ΟΞΌΞΏΟƒΞΌΞ­Ξ½ΞΏ ΞΊΞµΞΉΞΌΞ­Ξ½ΞΏ ΞΎΞµΞΊΞ»ΞµΞΉΞ΄ΟΞΌΞ±Ο„ΞΏΟ‚";
+		CUSTOM_LEGAL_STRING = "Ξ ΞµΟΞ― Ξ½ΞΏΞΌΞΉΞΊΟΞ½";
 
-		CUSTOM_STRINGS_TITLE = "Προσαρμοσμένες ρυθμίσεις strings";
+		CUSTOM_STRINGS_TITLE = "Ξ ΟΞΏΟƒΞ±ΟΞΌΞΏΟƒΞΌΞ­Ξ½ΞµΟ‚ ΟΟ…ΞΈΞΌΞ―ΟƒΞµΞΉΟ‚ strings";
 }
