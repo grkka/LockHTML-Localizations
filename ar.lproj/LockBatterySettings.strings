@@ -3,16 +3,15 @@
 
 		/* BatterView Settings */
 
-		BATTERY_POSITION = "������ ��������";
-		CUSTOM_BATTERY_POSITION = "���� ���� ��������";
-		PRECISE_BATTERY_POSITION = "���� ���� ��������";
-		CUSTOM_BATTERY_TEXT_POSITION = "���� �� ���� ��������";
-		PRECISE_BATTERY_TEST_POSITION = "���� �� ���� ��������";
-		STOP_FADE_OUT = "����� ������� �������� �������� ����� �����";
-		DISABLE_FADE_OUT_TIMER = "����� ���� ������� �������� ��������";
-		HIDE_BATTERY_TEXT = "����� ���� ��������";
-		HIDE_BATTERYVIEW = "����� ��������";
-		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
+		BATTERY_POSITION = "إرتفاع البطارية";
+		CUSTOM_BATTERY_POSITION = "موقع مخصص للبطارية";
+		PRECISE_BATTERY_POSITION = "موقع محدد للبطارية";
+		CUSTOM_BATTERY_TEXT_POSITION = "موقع نص مخصص للبطارية";
+		PRECISE_BATTERY_TEST_POSITION = "موقع نص محدد للبطارية";
+		STOP_FADE_OUT = "إيقاف الإخفاء التدريجي للبطارية بشاشة القفل";
+		DISABLE_FADE_OUT_TIMER = "إلغاء مؤقت الإخفاء التدريجي للبطارية";
+		HIDE_BATTERY_TEXT = "إخفاء نسبة البطارية";
+		HIDE_BATTERYVIEW = "إخفاء البطارية";
 
-		BATTERYVIEW_TITLE = "������� ��������";
+		BATTERYVIEW_TITLE = "إعدادات البطارية";
 }
