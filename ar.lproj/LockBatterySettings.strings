@@ -3,15 +3,16 @@
 
 		/* BatterView Settings */
 
-		BATTERY_POSITION = "еяйщгз гАхьгяМи";
-		CUSTOM_BATTERY_POSITION = "ЦФчз Цнуу ААхьгяМи";
-		PRECISE_BATTERY_POSITION = "ЦФчз Цмоо ААхьгяМи";
-		CUSTOM_BATTERY_TEXT_POSITION = "ЦФчз Ду Цнуу ААхьгяМи";
-		PRECISE_BATTERY_TEST_POSITION = "ЦФчз Ду Цмоо ААхьгяМи";
-		STOP_FADE_OUT = "еМчгщ гАенщга гАйояМлМ ААхьгяМи хтгти гАчщА";
-		DISABLE_FADE_OUT_TIMER = "еАшга Цдчй гАенщга гАйояМлМ ААхьгяМи";
-		HIDE_BATTERY_TEXT = "енщга Дсхи гАхьгяМи";
-		HIDE_BATTERYVIEW = "енщга гАхьгяМи";
+		BATTERY_POSITION = "О©╫О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫";
+		CUSTOM_BATTERY_POSITION = "О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫";
+		PRECISE_BATTERY_POSITION = "О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫";
+		CUSTOM_BATTERY_TEXT_POSITION = "О©╫О©╫О©╫О©╫ О©╫О©╫ О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫";
+		PRECISE_BATTERY_TEST_POSITION = "О©╫О©╫О©╫О©╫ О©╫О©╫ О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫";
+		STOP_FADE_OUT = "О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫";
+		DISABLE_FADE_OUT_TIMER = "О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫";
+		HIDE_BATTERY_TEXT = "О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫";
+		HIDE_BATTERYVIEW = "О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫";
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
-		BATTERYVIEW_TITLE = "езогогй гАхьгяМи";
+		BATTERYVIEW_TITLE = "О©╫О©╫О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫";
 }
