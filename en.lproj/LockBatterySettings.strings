@@ -12,6 +12,7 @@
 		DISABLE_FADE_OUT_TIMER = "Disable Battery FadeOut Timer";
 		HIDE_BATTERY_TEXT = "Hide Battery Text";
 		HIDE_BATTERYVIEW = "Hide BatteryView";
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
 		BATTERYVIEW_TITLE = "Battery Settings";
 }
