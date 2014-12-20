@@ -63,16 +63,16 @@
 		ADVANCED_SETTINGS = "متقدم";
 		/* Hide Settings */
 
-		HIDE_CONTROL_CENTER_GRABBER = "ÅÎÝÇÁ ÔÑíØ ÓÍÈ ãÑßÒ ÇáÊÍßã";
-		HIDE_NOTIFICATION_CENTER_GRABBER = "ÅÎÝÇÁ ÔÑíØ ÓÍÈ ãÑßÒ ÇáÅÔÚÇÑÇÊ";
-		CUSTOM_CAMERA_GRABBER = "Ôßá ãÎÕÕ áãÞÈÖ ÇáßÇãíÑÇ";
-		HIDE_CAMERA_GRABBER = "ÅÎÝÇÁ ãÞÈÖ ÇáßÇãíÑÇ";
-		HIDE_UNLOCK_CHEVRON = "ÅÎÝÇÁ ÔÇÑÉ ÝÊÍ ÇáÞÝá";
-		HIDE_UNLOCK_TEXT = "ÅÎÝÇÁ äÕ ÔÑíØ ÓÍÈ ÇáÞÝá";
-		HIDE_DATE_ONLY = "ÅÎÝÇÁ ÇáÊÇÑíÎ ÝÞØ";
-		HIDE_CLOCK_VIEW = "ÅÎÝÇÁ ÇáÓÇÚÉ";
+		HIDE_CONTROL_CENTER_GRABBER = "إخفاء شريط سحب مركز التحكم";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "إخفاء شريط سحب مركز الإشعارات";
+		CUSTOM_CAMERA_GRABBER = "شكل مخصص لمقبض الكاميرا";
+		HIDE_CAMERA_GRABBER = "إخفاء مقبض الكاميرا";
+		HIDE_UNLOCK_CHEVRON = "إخفاء شارة فتح القفل";
+		HIDE_UNLOCK_TEXT = "إخفاء نص شريط سحب القفل";
+		HIDE_DATE_ONLY = "إخفاء التاريخ فقط";
+		HIDE_CLOCK_VIEW = "إخفاء الساعة";
 
-		HIDE_SETTINGS_TITLE = "ÅÎÝÇÁ ÚäÇÕÑ ÔÇÔÉ ÇáÞÝá";
+		HIDE_SETTINGS_TITLE = "إخفاء عناصر شاشة القفل";
 		
 		/* WidgetAction Settings */
 
@@ -92,53 +92,53 @@
 		
 		/* Notification Settings */
 
-		NOTIFICATION_PLACEMENT_FOOTER = "ÅÚÇÏÉ ÇáÊäÈíåÇÊ ááæÖÚ ÇáÃÕáí ÚäÏ ÊæÕíá ÓãÇÚÉ ÇáÑÃÓ";
-		NOTIFICATION_TO_THE_TOP = "ÌáÈ ÇáÊäÈíåÇÊ ááÃÚáì";
-		FULLSCREEN_NOTIFICATIONS = "ÊäÈíåÇÊ ÈßÇãá ÇáÔÇÔÉ";
-		CUSTOM_NOTIFICATION_START = "ÈÏÇíÉ ÊäÈíå ãÎÕÕ";
-		HIDE_NOTIFICATION_SEPARATORS = "ÅÎÝÇÁ ÝæÇÕá ÔÇÔÉ ÇáÞÝá";
-		NOTIFICATIONS_TITLE = "ÅÚÏÇÏÇÊ ÇáÊäÈíåÇÊ";
+		NOTIFICATION_PLACEMENT_FOOTER = "إعادة التنبيهات للوضع الأصلي عند توصيل سماعة الرأس";
+		NOTIFICATION_TO_THE_TOP = "جلب التنبيهات للأعلى";
+		FULLSCREEN_NOTIFICATIONS = "تنبيهات بكامل الشاشة";
+		CUSTOM_NOTIFICATION_START = "بداية تنبيه مخصص";
+		HIDE_NOTIFICATION_SEPARATORS = "إخفاء فواصل شاشة القفل";
+		NOTIFICATIONS_TITLE = "إعدادات التنبيهات";
 
 		/* Custom Strings Settings */
 
-		CUSTOM_SLIDE_TO_UNLOCK_STRING = "ÔÑíØ ÓÍÈ ãÎÕÕ áÔÇÔÉ ÇáÞÝá";
-		CUSTOM_LEGAL_STRING = "ÔÑíØ ÓÍÈ ãÎÕÕ";
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "شريط سحب مخصص لشاشة القفل";
+		CUSTOM_LEGAL_STRING = "شريط سحب مخصص";
 
-		CUSTOM_STRINGS_TITLE = "ÅÚÏÇÏÇÊ ÊÎÕíÕ ÔÑíØ ÇáÓÍÈ";
+		CUSTOM_STRINGS_TITLE = "إعدادات تخصيص شريط السحب";
 
 		/* Misc Settings */
 
-		DISABLE_OVERLAY_BLUR = "ÅáÛÇÁ ÇáÛØÇÁ ÇáÖÈÇÈí";
-		DISABLE_OVERLAY_TINT = "ÅáÛÇÁ ÇáÛØÇÁ Çáãáæøä";
-		SHOW_STATUSBAR_TIME = "ÚÑÖ ÇáÓÇÚÉ ÈÔÑíØ ÇáÍÇáÉ";
-		HIDE_STATUSBAR = "ÅÎÝÇÁ ÔÑíØ ÇáÍÇáÉ";
-		SMALL_STATUSBAR = "ÔÑíØ ÍÇáÉ ÃÕÛÑ";
-		HALF_HIDE_GRABBERS = "ÅÎÝÇÁ ÇáÞæÇÈÖ ÌÒÆíøÇð";
-		CUSTOM_LOCKSCREEN_TIMEOUT = "ãåáÉ ãÎÕÕ áÔÇÔÉ ÇáÞÝá";
-		5_SECONDS = "5 ËæÇä";
-		6_SECONDS = "6 ËæÇä";
-		7_SECONDS = "7 ËæÇä";
-		8_SECONDS = "8 ËæÇä";
-		9_SECONDS = "9 ËæÇä";
-		10_SECONDS = "10 ËæÇä";
-		15_SECONDS = "15 ËÇäíÉ";
-		20_SECONDS = "20 ËÇäíÉ";
-		25_SECONDS = "25 ËÇäíÉ";
-		30_SECONDS = "30 ËÇäíÉ";
-		35_SECONDS = "35 ËÇäíÉ";
-		40_SECONDS = "40 ËÇäíÉ";
-		45_SECONDS = "45 ËÇäíÉ";
-		50_SECONDS = "50 ËÇäíÉ";
-		55_SECONDS = "55 ËÇäíÉ";				
-		1_MINUTE = "ÏÞíÞÉ æÇÍÏÉ";
-		2_MINUTES = "ÏÞíÞÊÇä";
-		3_MINUTES = "3 ÏÞÇÆÞ";
-		4_MINUTES = "4 ÏÞÇÆÞ";
-		5_MINUTES = "5 ÏÞÇÆÞ";
-		10_MINUTES = "10 ÏÞÇÆÞ";
-		1_HOUR = "ÓÇÚÉ";	
+		DISABLE_OVERLAY_BLUR = "إلغاء الغطاء الضبابي";
+		DISABLE_OVERLAY_TINT = "إلغاء الغطاء الملوّن";
+		SHOW_STATUSBAR_TIME = "عرض الساعة بشريط الحالة";
+		HIDE_STATUSBAR = "إخفاء شريط الحالة";
+		SMALL_STATUSBAR = "شريط حالة أصغر";
+		HALF_HIDE_GRABBERS = "إخفاء القوابض جزئيّاً";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "مهلة مخصص لشاشة القفل";
+		5_SECONDS = "5 ثوان";
+		6_SECONDS = "6 ثوان";
+		7_SECONDS = "7 ثوان";
+		8_SECONDS = "8 ثوان";
+		9_SECONDS = "9 ثوان";
+		10_SECONDS = "10 ثوان";
+		15_SECONDS = "15 ثانية";
+		20_SECONDS = "20 ثانية";
+		25_SECONDS = "25 ثانية";
+		30_SECONDS = "30 ثانية";
+		35_SECONDS = "35 ثانية";
+		40_SECONDS = "40 ثانية";
+		45_SECONDS = "45 ثانية";
+		50_SECONDS = "50 ثانية";
+		55_SECONDS = "55 ثانية";				
+		1_MINUTE = "دقيقة واحدة";
+		2_MINUTES = "دقيقتان";
+		3_MINUTES = "3 دقائق";
+		4_MINUTES = "4 دقائق";
+		5_MINUTES = "5 دقائق";
+		10_MINUTES = "10 دقائق";
+		1_HOUR = "ساعة";	
 
-		MISC_TITLE ="ÅÚÏÇÏÇÊ ãÊÝÑÞÉ";
+		MISC_TITLE ="إعدادات متفرقة";
 
 		/* Widget Coordinates Settings */
 
