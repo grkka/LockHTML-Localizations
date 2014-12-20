@@ -1,0 +1,163 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "Gjem Tema Mappe";
+		HIDE_THEME_FOOTER = "Lar deg gjemme en hel mappe av temaer.";
+
+		HIDE_LOCKHTML_THEMES = "Gjem LockHTML Tema";
+		HIDE_WINTERBOARD_THEMES = "Gjem WinterBoard Tema";
+		HIDE_PERPAGEHTML_THEMES = "Gjem PerPageHTML Tema";
+		HIDE_IWIDGET_THEMES = "Gjem iWidget Tema";
+		HIDE_GROOVYLOCK_THEMES = "Gjem GroovyLock Tema";
+		HIDE_WIDGETHTML = "Gjem Widget.html";
+		HIDE_LOCKBACKGROUNDHTML = "Gjem LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "Set Widget Koordinater";
+		DISABLE_EDIT_MODE = "Slå av redigerings modus";
+		ONLY_Y_AXIS = "Bare Y Axen";
+
+		CACHED_MODE_FOOTER = "Du har kanskje et problem med at widgets ikke oppdaterer seg. Prøv Respring.";
+		CACHED_MODE = "Cached Modus";
+
+		ADVANCED_TITLE = "Avansert";
+		LOCKHTML3 = LockHTML3;
+
+		/* BatterView Settings */
+
+		BATTERY_POSITION = "Batteri Høyde";
+		CUSTOM_BATTERY_POSITION = "Egendefinert Batteri Lokalisering";
+		PRECISE_BATTERY_POSITION = "Eksakt Batteri Lokalisering";
+		CUSTOM_BATTERY_TEXT_POSITION = "Egendefinert Batteri Tekst Lokalisering";
+		PRECISE_BATTERY_TEST_POSITION = "Eksakt Batteri Tekst Lokalisering";
+		STOP_FADE_OUT = "Stop LS FadeOut For Batteri";
+		DISABLE_FADE_OUT_TIMER = "Slå av Batteri FadeOut Timer";
+		HIDE_BATTERY_TEXT = "Gjem Battery Tekst";
+		HIDE_BATTERYVIEW = "Gjem BatteryView";
+		ALWAYS_SHOW_BATTERY_TEXT = "Alltid Vis Batteri Tekst";
+
+		BATTERYVIEW_TITLE = "Batteri Innstillinger";
+		LOCKHTML3 = LockHTML3;
+
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "Gjem CC Grabber";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "Gjem NC Grabber";
+		CUSTOM_CAMERA_GRABBER = "Egendefinert Kamera Grabber";
+		HIDE_CAMERA_GRABBER = "Gjem Kamera Grabber";
+		DISABLE_CAMERA_GRABBER = "Slå av Kamera Grabber";
+		HIDE_UNLOCK_CHEVRON = "Gjem Lås Opp Chevron";
+		HIDE_UNLOCK_TEXT = "Gjem Lås Opp Tekst";
+		HIDE_DATE_ONLY = "Gjem Bare Dato";
+		HIDE_CLOCK_VIEW = "Gjem Clock View";
+
+		HIDE_SETTINGS_TITLE = "Gjem LS Elementer";
+		LOCKHTML3 = LockHTML3;
+
+		/* Main Settings */
+
+		THEMES_FOOTER = "Temaer blir aktivert når du låser enheten, dette krever ikke Respring";
+		ENABLE_HTML = "Aktiver HTML";
+		SELECT_WIDGET = "Velg Widget";
+
+		WIDGET_POSITION = "Widget Posisjon";
+		BELOW_NOTIFICATIONS = "Under Notifikasjoner";
+		ABOVE_NOTIFICATIONS = "Over Notifikasjoner";
+		BACKGROUND_POSITION = "I Bakgrunden(Ingen Touch)";
+
+		ADVANCED_SETTINGS_HEADER = "Avanserte Innstillinger";
+		HIDE_SETTINGS = "Gjem LockScreen Elementer";
+		WIDGET_ACTION_SETTINGS = "Widget Actions";
+		NOTIFICATIONS_SETTINGS = "Notifikasjon Innstillinger";
+		BATTERYVIEW_SETTINGS = "BatteryView Innstillinger";
+		CUSTOM_STRING_SETTINGS = "Egendefinert String Innstillinger";
+		MISC_SETTINGS = "Misc Innstillinger";
+
+		LOCATION_FOOTER = "Oppdaterer myLocation.txt manuelt for de som ikke vil bruke myLocation App, Respring når detter er ferdig";
+		LOCATION_BUTTON = "Manuelt Finn Lokalisering";
+
+		ADVANCED_SETTINGS = "Avansert";
+		LOCKHTML3 = LockHTML3;
+
+		/* WidgetAction Settings */
+
+		FADE_WHILE_SCROLLING_FOOTER = "Fader bort Widget når man skroller på LockScreen";
+		FADE_WHILE_SCROLLING = "Fade Når Skroller";
+
+		FADE_WHILE_CHARGING_FOOTER = "Fader bort Widget når ChargingView er open";
+		FADE_WHILE_CHARGING = "Fade Når Lader";
+
+		FADE_WITH_CONTROL_CENTER_FOOTER = "Fader bort Widget når man løfter ControlCenter";
+		FADE_WITH_CONTROL_CENTER = "Fade Med ControlCenter";
+
+		FADE_WITH_NOTIFICATIONS_FOOTER = "Fader bort Widget når Notifikasjoner er synlig, bare anbefalt å vera av med iWidgets eller Under Notifikasjoner";
+		FADE_WITH_NOTIFICATIONS = "Fade Med Notifications";
+
+		WIDGET_ACTIONS_TITLE = "HTML Actions";
+		LOCKHTML3 = LockHTML3;
+
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "Når NowPlaying er aktivert, vil Notifikasjoner gå til orginal plass.";
+		Notifications_Placement_Settings = "Instillinger for Notifikasjon Plasering";
+		NOTIFICATION_TO_THE_TOP = "Press Notifikasjoner Opp";
+		FULLSCREEN_NOTIFICATIONS = "Fullskjerm Notifikasjoner";
+		CUSTOM_NOTIFICATION_START = "Egendefinert Notifikasjon Start";
+		CUSTOM_NOTIFICATION_END = "Egendefinert Notifikasjoner Slutt";
+		HIDE_NOTIFICATION_SEPARATORS = "Gjem LS Delere";
+		NOTIFICATIONS_TITLE = "Notifikasjon Innstillinger";
+		LOCKHTML3 = LockHTML3;
+
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Egendefinert Slide to Unlock String";
+		CUSTOM_LEGAL_STRING = "Egendefinert Legal String";
+
+		CUSTOM_STRINGS_TITLE = "Egendefinert String Settings";
+		LOCKHTML3 = LockHTML3;
+
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "Så av Overlay Blur";
+		DISABLE_OVERLAY_TINT = "Slå av Overlay Tint";
+		SHOW_STATUSBAR_TIME = "Vis StatusBar Tid";
+		HIDE_STATUSBAR = "Gjem StatusBar";
+		SMALL_STATUSBAR = "Små StatusBar";
+		HALF_HIDE_GRABBERS = "Gjem Nesten Grabbers";
+		Disable_Controls_Fade_for_CC = "Slå av Kontroller Fade for CC";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "Egendefinert LS Timeout";
+		5_SECONDS = "5 Sekunder";
+		6_SECONDS = "6 Sekunder";
+		7_SECONDS = "7 Sekunder";
+		8_SECONDS = "8 Sekunder";
+		9_SECONDS = "9 Sekunder";
+		10_SECONDS = "10 Sekunder";
+		15_SECONDS = "15 Sekunder";
+		20_SECONDS = "20 Sekunder";
+		25_SECONDS = "25 Sekunder";
+		30_SECONDS = "30 Sekunder";
+		35_SECONDS = "35 Sekunder";
+		40_SECONDS = "40 Sekunder";
+		45_SECONDS = "45 Sekunder";
+		50_SECONDS = "50 Sekunder";
+		55_SECONDS = "55 Sekunder";				
+		1_MINUTE = "1 Minutt";
+		2_MINUTES = "2 Minutter";
+		3_MINUTES = "3 Minutter";
+		4_MINUTES = "4 Minutter";
+		5_MINUTES = "5 Minutter";
+		10_MINUTES = "10 Minutter";
+		1_HOUR = "1 Timer";	
+
+		MISC_TITLE ="Misc Innstillinger";
+		LOCKHTML3 = LockHTML3;
+
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "X Koordinat";
+		Y_COORDINATE = "Y Koordinat";
+
+		WIDGET_COORDINATES_TITLE = "Widget Koordinater";
+
+}
