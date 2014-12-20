@@ -1,0 +1,134 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "Tema Dosyalarını Gizle";
+		HIDE_THEME_FOOTER = "Tüm tweaklerin tema dosyalarını gizleyebilmenizi sağlar.";
+
+		HIDE_LOCKHTML_THEMES = "LockHTML Temalarını Gizle";
+		HIDE_WINTERBOARD_THEMES = "WinterBoard Temalarını Gizle";
+		HIDE_PERPAGEHTML_THEMES = "PerPageHTML Temalarını Gizle";
+		HIDE_IWIDGET_THEMES = "iWidget Temalarını Gizle";
+		HIDE_GROOVYLOCK_THEMES = "GroovyLock Temalarını Gizle";
+		HIDE_WIDGETHTML = "Widget.html'yi Gizle";
+		HIDE_LOCKBACKGROUNDHTML = "LockBackground.html'yi Gizle";
+
+		SET_WIDGET_COORDINATES = "Widgetın Konumunu Ayarla";
+		DISABLE_EDIT_MODE = "Düzenleme Modunu Kapat";
+		ONLY_Y_AXIS = "Sadece Y(Dikey) Ekseni";
+
+		CACHED_MODE_FOOTER = "Widgetlarınızın gerektiği gibi yüklenmesinde sorun yaşayabilirsiniz. Respring Gerektirir.";
+		CACHED_MODE = "Ön Bellek Modu";
+
+		ADVANCED_TITLE = "Gelişmiş";
+
+		/* BatterView Settings */
+
+		BATTERY_POSITION = "Pil Göstergesi Yüksekliği";
+		CUSTOM_BATTERY_POSITION = "Özel Pil Görseli Konumu";
+		PRECISE_BATTERY_POSITION = "Pil Görseli Tam Konumu";
+		CUSTOM_BATTERY_TEXT_POSITION = "Özel Pil Yazısı Konumu";
+		PRECISE_BATTERY_TEST_POSITION = "Pil Yazısı Tam Konumu";
+		STOP_FADE_OUT = "Pil Gösteriminde Kilit Ekranının Soluklaşmasını Engelle";
+		DISABLE_FADE_OUT_TIMER = "Pil Göstergesini Sürekli Göster";
+		HIDE_BATTERY_TEXT = "Pil Yazısını Gizle";
+		HIDE_BATTERYVIEW = "Pil Görselini Gizle";
+
+		BATTERYVIEW_TITLE = "Pil Göstergesi Ayarları";
+		
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "KM Simgesini Gizle";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "BM Simgesini Gizle";
+		CUSTOM_CAMERA_GRABBER = "Özel Kamera Simgesi";
+		HIDE_CAMERA_GRABBER = "Kamera Simgesini Gizle";
+		HIDE_UNLOCK_CHEVRON = "Kilit Aç Nişanını Gizle";
+		HIDE_UNLOCK_TEXT = "Kilit Aç Yazısını Gizle";
+		HIDE_DATE_ONLY = "Sadece Tarihi Gizle";
+		HIDE_CLOCK_VIEW = "Saat Gösterimini Gizle";
+
+		HIDE_SETTINGS_TITLE = "KE Elemanlarını Gizle";
+		
+		/* Main Settings */
+
+		THEMES_FOOTER = "Temalar cihazınızı kilitlediğiniz zaman uygulanacaktır ve Respring gerektirmez.";
+		ENABLE_HTML = "HTML Etkinleştir";
+		SELECT_WIDGET = "Widget Seç";
+
+		WIDGET_POSITION = "Widget Konumu";
+		BELOW_NOTIFICATIONS = "Bildirimlerin Altında";
+		ABOVE_NOTIFICATIONS = "Bildirimlerin Üstünde";
+		BACKGROUND_POSITION = "Arka Planda(Dokunma Özelliği Kalkar)";
+
+		ADVANCED_SETTINGS_HEADER = "Geliştirme Ayarları";
+		HIDE_SETTINGS = "Kilit Ekranı Elemanlarını Gizle";
+		WIDGET_ACTION_SETTINGS = "Widget Hareketleri";
+		NOTIFICATIONS_SETTINGS = "Bildirim Ayarları";
+		BATTERYVIEW_SETTINGS = "Pil Göstergesi Ayarları";
+		CUSTOM_STRING_SETTINGS = "Özel Metin Ayarları";
+		MISC_SETTINGS = "Diğer Ayarlar";
+
+		LOCATION_FOOTER = "Konum gerektiren temalarda myLocation uygulamasını kullanmak istemeyenler için myLocation.txt dosyasını manuel olarak güncelleyecektir. İşlem tamamlandıktan sonra cihazınıza bir kez Respring Uygulayın.";
+		LOCATION_BUTTON = "Konumu Elle Al";
+
+		ADVANCED_SETTINGS = "Gelişmiş";
+		
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "Şimdi Çalıyor ekranı açıkken bildirimler orjinal konumuna döner.";
+		NOTIFICATION_TO_THE_TOP = "Bildirimleri Yukarı Çek";
+		FULLSCREEN_NOTIFICATIONS = "Tam Ekran Bildirimler";
+		CUSTOM_NOTIFICATION_START = "Özel Bildirim Başlangıcı Konumu";
+		HIDE_NOTIFICATION_SEPARATORS = "KE Ayraçlarını Gizle";
+		NOTIFICATIONS_TITLE = "Bildirim Ayarları";
+		
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Özel 'kilidi açmak için kaydır' metni.";
+		CUSTOM_LEGAL_STRING = "Özel Alt Metin";
+
+		CUSTOM_STRINGS_TITLE = "Özel Metin Ayarları";
+		
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "Buğulu Katmanı Kaldır";
+		DISABLE_OVERLAY_TINT = "Renklendirme Katmanını Kaldır";
+		SHOW_STATUSBAR_TIME = "Durum Çubuğunda Saati Göster";
+		HIDE_STATUSBAR = "Durum Çubuğunu Gizle";
+		SMALL_STATUSBAR = "İnce Durum Çubuğu";
+		HALF_HIDE_GRABBERS = "Simgeleri Kısmen Gizle";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "Özel KE Kararma Süresi";
+		5_SECONDS = "5 Saniye";
+		6_SECONDS = "6 Saniye";
+		7_SECONDS = "7 Saniye";
+		8_SECONDS = "8 Saniye";
+		9_SECONDS = "9 Saniye";
+		10_SECONDS = "10 Saniye";
+		15_SECONDS = "15 Saniye";
+		20_SECONDS = "20 Saniye";
+		25_SECONDS = "25 Saniye";
+		30_SECONDS = "30 Saniye";
+		35_SECONDS = "35 Saniye";
+		40_SECONDS = "40 Saniye";
+		45_SECONDS = "45 Saniye";
+		50_SECONDS = "50 Saniye";
+		55_SECONDS = "55 Saniye";				
+		1_MINUTE = "1 Dakika";
+		2_MINUTES = "2 Dakika";
+		3_MINUTES = "3 Dakika";
+		4_MINUTES = "4 Dakika";
+		5_MINUTES = "5 Dakika";
+		10_MINUTES = "10 Dakika";
+		1_HOUR = "1 Saat";	
+
+		MISC_TITLE ="Diğer Ayarlar";
+		
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "X Koordinatı";
+		Y_COORDINATE = "Y Koordinatı";
+
+		WIDGET_COORDINATES_TITLE = "Widget Konumu";
+
+}
