@@ -34,6 +34,7 @@
 		DISABLE_FADE_OUT_TIMER = "充電時始終顯示電量";
 		HIDE_BATTERY_TEXT = '隱藏"正在充電”文字';
 		HIDE_BATTERYVIEW = '隱藏“正在充電”';
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
 		BATTERYVIEW_TITLE = "電池樣式設定";
 		
@@ -67,6 +68,7 @@
 		HIDE_NOTIFICATION_CENTER_GRABBER = "隱藏通知中心抓取圖標";
 		CUSTOM_CAMERA_GRABBER = "自訂相機圖標";
 		HIDE_CAMERA_GRABBER = "隱藏相機圖標";
+		DISABLE_CAMERA_GRABBER = "Disable Camera Grabber";
 		HIDE_UNLOCK_CHEVRON = "隱藏解鎖箭頭";
 		HIDE_UNLOCK_TEXT = "隱藏解鎖文字";
 		HIDE_DATE_ONLY = "僅隱藏日期";
@@ -85,25 +87,26 @@
 		FADE_WITH_CONTROL_CENTER_FOOTER = "滑出控制中心時淡化小工具";
 		FADE_WITH_CONTROL_CENTER = "控制中心淡化效果";
 
-		FADE_WITH_NOTIFICATIONS_FOOTER = "有新通知時淡化小工具，建議當有 iWidgets 或啟用"位於通知之下"時關閉本功能。";
+		FADE_WITH_NOTIFICATIONS_FOOTER = '有新通知時淡化小工具，建議當有 iWidgets 或啟用"位於通知之下"時關閉本功能。';
 		FADE_WITH_NOTIFICATIONS = "新通知淡化效果";
 
 		WIDGET_ACTIONS_TITLE = "HTML 動作";
 		
 		/* Notification Settings */
 
-		NOTIFICATION_PLACEMENT_FOOTER = "當"現正播放"插件啟用時，通知將回復到原始位置";
+		NOTIFICATION_PLACEMENT_FOOTER = '當"現正播放"插件啟用時，通知將回復到原始位置';
 		Notifications_Placement_Settings = "Notifications Placement Settings";
 		NOTIFICATION_TO_THE_TOP = "通知置頂";
 		FULLSCREEN_NOTIFICATIONS = "全螢幕顯示通知";
 		CUSTOM_NOTIFICATION_START = "自訂通知位置";
+		CUSTOM_NOTIFICATION_END = "Custom Notification End";
 		HIDE_NOTIFICATION_SEPARATORS = "隱藏鎖定畫面分隔線";
 		NOTIFICATIONS_TITLE = "通知設定";
 		
 		/* Custom Strings Settings */
 
-		CUSTOM_SLIDE_TO_UNLOCK_STRING = "自訂"滑動來解鎖"字串";
-		CUSTOM_LEGAL_STRING = "自訂"法律聲明"字串";
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = '自訂"滑動來解鎖"字串';
+		CUSTOM_LEGAL_STRING = '自訂"法律聲明"字串';
 
 		CUSTOM_STRINGS_TITLE = "自訂字串設定";
 		
@@ -111,9 +114,9 @@
 
 		DISABLE_OVERLAY_BLUR = "禁用磨砂效果";
 		DISABLE_OVERLAY_TINT = "禁用色彩效果";
-		SHOW_STATU傻瓜AR_TIME = "顯示狀態欄時間";
-		HIDE_STATU傻瓜AR = "隱藏狀態欄";
-		SMALL_STATU傻瓜AR = "較小的狀態欄";
+		SHOW_STATUSBAR_TIME = "顯示狀態欄時間";
+		HIDE_STATUSBAR = "隱藏狀態欄";
+		SMALL_STATUSBAR = "較小的狀態欄";
 		HALF_HIDE_GRABBERS = "隱藏部分抓取圖標";
 		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
 		CUSTOM_LOCKSCREEN_TIMEOUT = "自訂鎖定畫面變暗時間";
