@@ -77,6 +77,7 @@
 		/* Notification Settings */
 
 		NOTIFICATION_PLACEMENT_FOOTER = "Şimdi Çalıyor ekranı açıkken bildirimler orjinal konumuna döner.";
+		Notifications_Placement_Settings = "Notifications Placement Settings";
 		NOTIFICATION_TO_THE_TOP = "Bildirimleri Yukarı Çek";
 		FULLSCREEN_NOTIFICATIONS = "Tam Ekran Bildirimler";
 		CUSTOM_NOTIFICATION_START = "Özel Bildirim Başlangıcı Konumu";
@@ -98,6 +99,7 @@
 		HIDE_STATUSBAR = "Durum Çubuğunu Gizle";
 		SMALL_STATUSBAR = "İnce Durum Çubuğu";
 		HALF_HIDE_GRABBERS = "Simgeleri Kısmen Gizle";
+		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
 		CUSTOM_LOCKSCREEN_TIMEOUT = "Özel KE Kararma Süresi";
 		5_SECONDS = "5 Saniye";
 		6_SECONDS = "6 Saniye";
