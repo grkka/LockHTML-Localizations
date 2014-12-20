@@ -38,6 +38,19 @@
 
 		BATTERYVIEW_TITLE = "إعدادات البطارية";
 
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "إخفاء شريط سحب مركز التحكم";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "إخفاء شريط سحب مركز الإشعارات";
+		CUSTOM_CAMERA_GRABBER = "شكل مخصص لمقبض الكاميرا";
+		HIDE_CAMERA_GRABBER = "إخفاء مقبض الكاميرا";
+		HIDE_UNLOCK_CHEVRON = "إخفاء شارة فتح القفل";
+		HIDE_UNLOCK_TEXT = "إخفاء نص شريط سحب القفل";
+		HIDE_DATE_ONLY = "إخفاء التاريخ فقط";
+		HIDE_CLOCK_VIEW = "إخفاء الساعة";
+
+		HIDE_SETTINGS_TITLE = "إخفاء عناصر شاشة القفل";
+
 		/* Main Settings */
 
 		THEMES_FOOTER = "سيتم تطبيق الثيمات عند إغلاق شاشة القفل, ولن يتطلب عمل ريسبرنق";
@@ -148,5 +161,4 @@
 		Y_COORDINATE = "تنسيق المحور الصادي";
 
 		WIDGET_COORDINATES_TITLE = "تنسيقات الويدجت";
-
 }
