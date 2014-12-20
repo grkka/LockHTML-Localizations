@@ -1,0 +1,151 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "隐藏主题";
+		HIDE_THEME_FOOTER = "允许您隐藏插件路径中的所有主题";
+
+		HIDE_LOCKHTML_THEMES = "隐藏 LockHTML 主题";
+		HIDE_WINTERBOARD_THEMES = "隐藏 WinterBoard 主题";
+		HIDE_PERPAGEHTML_THEMES = "隐藏 PerPageHTML 主题";
+		HIDE_IWIDGET_THEMES = "隐藏 iWidget 主题";
+		HIDE_GROOVYLOCK_THEMES = "隐藏 GroovyLock 主题";
+		HIDE_WIDGETHTML = "隐藏 Widget.html";
+		HIDE_LOCKBACKGROUNDHTML = "隐藏 LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "调整小部件坐标";
+		DISABLE_EDIT_MODE = "禁用编辑模式";
+		ONLY_Y_AXIS = "仅 Y 轴";
+
+		CACHED_MODE_FOOTER = "恢复v1.3前的缓存样式。如您的小部件未能正常启用，请重新注销主屏幕。";
+		CACHED_MODE = "缓存模式";
+		DISABLE_LS_TIMEOUT = "禁止锁屏变暗"
+
+		ADVANCED_TITLE = "高级";
+		
+			/* BatterView Settings */
+
+		BATTERY_POSITION = "电池高度";
+		CUSTOM_BATTERY_POSITION = "自定义电池位置";
+		PRECISE_BATTERY_POSITION = "当前位置";
+		CUSTOM_BATTERY_TEXT_POSITION = "自定义电池文字位置";
+		PRECISE_BATTERY_TEST_POSITION = "当前位置";
+		STOP_FADE_OUT = "禁止“正在充电”的淡入效果";
+		DISABLE_FADE_OUT_TIMER = "充电时始终显示电量";
+		HIDE_BATTERY_TEXT = "隐藏“正在充电”文字";
+		HIDE_BATTERYVIEW = "隐藏“正在充电”";
+
+		BATTERYVIEW_TITLE = "电池样式设置";
+		
+		/* Main Settings */
+
+		THEMES_FOOTER = "主题将会在您解锁设备时生效，无须重新注销主屏幕";
+		ENABLE_HTML = "启用 HTML";
+		SELECT_WIDGET = "选择小部件";
+
+		WIDGET_POSITION = "小部件位置";
+		BELOW_NOTIFICATIONS = "位于通知的下一层";
+		ABOVE_NOTIFICATIONS = "位于通知的上一层";
+		BACKGROUND_POSITION = "位于背景（禁用触摸）";
+
+		ADVANCED_SETTINGS_HEADER = "高级设置";
+		HIDE_SETTINGS = "隐藏锁屏元素";
+		WIDGET_ACTION_SETTINGS = "小部件行为";
+		NOTIFICATIONS_SETTINGS = "通知设置";
+		BATTERYVIEW_SETTINGS = "电池样式设置";
+		CUSTOM_STRING_SETTINGS = "自定义文字";
+		MISC_SETTINGS = "更多";
+
+		LOCATION_FOOTER = "如不安装 myLocation 软件，则需要您手动更新 myLocation.txt 文件。 请在完成修改后重新注销主屏幕。";
+		LOCATION_BUTTON = "手动获取位置";
+
+		ADVANCED_SETTINGS = "高级";
+		
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "隐藏控制中心 Grabber";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "隐藏通知中心 Grabber";
+		CUSTOM_CAMERA_GRABBER = "自定义相机图标";
+		HIDE_CAMERA_GRABBER = "隐藏相机图标";
+		HIDE_UNLOCK_CHEVRON = "隐藏解锁箭头";
+		HIDE_UNLOCK_TEXT = "隐藏解锁文字";
+		HIDE_DATE_ONLY = "仅隐藏日期";
+		HIDE_CLOCK_VIEW = "隐藏时钟";
+
+		HIDE_SETTINGS_TITLE = "隐藏锁屏元素";
+		
+		/* WidgetAction Settings */
+
+		FADE_WHILE_SCROLLING_FOOTER = "在锁屏滑动时淡化小部件";
+		FADE_WHILE_SCROLLING = "滑动时淡化小部件";
+
+		FADE_WHILE_CHARGING_FOOTER = "显示“正在充电”时淡化小部件";
+		FADE_WHILE_CHARGING = "充电时淡化小部件";
+
+		FADE_WITH_CONTROL_CENTER_FOOTER = "出现控制中心时淡化小部件";
+		FADE_WITH_CONTROL_CENTER = "拉起控制中心时淡化小部件";
+
+		FADE_WITH_NOTIFICATIONS_FOOTER = "有新通知时淡化小部件或通知的下一层";
+		FADE_WITH_NOTIFICATIONS = "有新通知时淡化小部件";
+
+		WIDGET_ACTIONS_TITLE = "HTML 行为";
+		
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "当正在播放时，通知将回到初始位置";
+		NOTIFICATION_TO_THE_TOP = "置顶通知";
+		FULLSCREEN_NOTIFICATIONS = "全屏显示通知";
+		CUSTOM_NOTIFICATION_START = "自定义通知位置";
+		HIDE_NOTIFICATION_SEPARATORS = "隐藏分隔线";
+		NOTIFICATIONS_TITLE = "通知设置";
+		
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "自定义“滑动以解锁”文字";
+		CUSTOM_LEGAL_STRING = "自定义合法串";
+
+		CUSTOM_STRINGS_TITLE = "自定义文字";
+		
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "禁用磨砂效果";
+		DISABLE_OVERLAY_TINT = "禁用色彩效果";
+		SHOW_STATUSBAR_TIME = "显示状态栏时间";
+		HIDE_STATUSBAR = "隐藏状态栏";
+		SMALL_STATUSBAR = "状态栏图标变小";
+		HALF_HIDE_GRABBERS = "隐藏部分 Grabbers";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "自定义锁屏变暗时长";
+		5_SECONDS = "5 秒";
+		6_SECONDS = "6 秒";
+		7_SECONDS = "7 秒";
+		8_SECONDS = "8 秒";
+		9_SECONDS = "9 秒";
+		10_SECONDS = "10 秒";
+		15_SECONDS = "15 秒";
+		20_SECONDS = "20 秒";
+		25_SECONDS = "25 秒";
+		30_SECONDS = "30 秒";
+		35_SECONDS = "35 秒";
+		40_SECONDS = "40 秒";
+		45_SECONDS = "45 秒";
+		50_SECONDS = "50 秒";
+		55_SECONDS = "55 秒";				
+		1_MINUTE = "1 分钟";
+		2_MINUTES = "2 分钟";
+		3_MINUTES = "3 分钟";
+		4_MINUTES = "4 分钟";
+		5_MINUTES = "5 分钟";
+		10_MINUTES = "10 分钟";
+		1_HOUR = "1 小时";	
+
+		MISC_TITLE ="更多";
+		
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "X 軸";
+		Y_COORDINATE = "Y 軸";
+
+		WIDGET_COORDINATES_TITLE = "小工具座標";
+
+}
