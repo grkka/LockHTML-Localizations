@@ -71,7 +71,7 @@
 		CUSTOM_STRING_SETTINGS = "Impostazioni Sblocco";
 		MISC_SETTINGS = "Varie";
 
-		LOCATION_FOOTER = 'Per quelli che desiderano non utilizzare l'App "myLocation", il file myLocation.txt andrà aggiornato manualmente. Effettuare un Respring al termine dell'operazione';
+		LOCATION_FOOTER = 'Per quelli che desiderano non utilizzare l\'App "myLocation", il file myLocation.txt andrà aggiornato manualmente. Effettuare un Respring al termine dell\'operazione';
 		LOCATION_BUTTON = "Imposta Localizzazione Manualmente";
 
 		ADVANCED_SETTINGS = "Avanzate";
