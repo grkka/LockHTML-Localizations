@@ -93,6 +93,7 @@
 		/* Notification Settings */
 
 		NOTIFICATION_PLACEMENT_FOOTER = “Cuando el plugin NowPlaying esté activado , las notificaciones se revertirán a su posición original";
+		Notifications_Placement_Settings = "Notifications Placement Settings";
 		NOTIFICATION_TO_THE_TOP = “Trae las notificaciones hasta Arriba”;
 		FULLSCREEN_NOTIFICATIONS = “Modo Completo de Notificaciones”;
 		CUSTOM_NOTIFICATION_START = “Ajuste de Donde empiezan las Notificaciones";
@@ -114,6 +115,7 @@
 		HIDE_STATUSBAR = “Esconde la StatusBar";
 		SMALL_STATUSBAR = "StatusBar mas Pequeña”;
 		HALF_HIDE_GRABBERS = “Esconde Parcialmente los Grabbers";
+		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
 		CUSTOM_LOCKSCREEN_TIMEOUT = “Tiempo Personalizado de LS";
 		5_SECONDS = "5 Segundos”;
 		6_SECONDS = "6 Segundos";
