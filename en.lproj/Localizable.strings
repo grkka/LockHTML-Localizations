@@ -1,0 +1,163 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "Hide Theme Folders";
+		HIDE_THEME_FOOTER = "Allows you to hide an entire tweaks folder of themes.";
+
+		HIDE_LOCKHTML_THEMES = "Hide LockHTML Themes";
+		HIDE_WINTERBOARD_THEMES = "Hide WinterBoard Themes";
+		HIDE_PERPAGEHTML_THEMES = "Hide PerPageHTML Themes";
+		HIDE_IWIDGET_THEMES = "Hide iWidget Themes";
+		HIDE_GROOVYLOCK_THEMES = "Hide GroovyLock Themes";
+		HIDE_WIDGETHTML = "Hide Widget.html";
+		HIDE_LOCKBACKGROUNDHTML = "Hide LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "Set Widget Coordinates";
+		DISABLE_EDIT_MODE = "Disable Edit Mode";
+		ONLY_Y_AXIS = "Only Y Axis";
+
+		CACHED_MODE_FOOTER = "You may have issues with widgets not updating properly. Requires Respring.";
+		CACHED_MODE = "Cached Mode";
+
+		ADVANCED_TITLE = "Advanced";
+		LOCKHTML3 = LockHTML3;
+
+		/* BatterView Settings */
+
+		BATTERY_POSITION = "Battery Height";
+		CUSTOM_BATTERY_POSITION = "Custom Battery Location";
+		PRECISE_BATTERY_POSITION = "Exact Battery Location";
+		CUSTOM_BATTERY_TEXT_POSITION = "Custom Battery Text Location";
+		PRECISE_BATTERY_TEST_POSITION = "Exact Battery Text Location";
+		STOP_FADE_OUT = "Stop LS FadeOut For Battery";
+		DISABLE_FADE_OUT_TIMER = "Disable Battery FadeOut Timer";
+		HIDE_BATTERY_TEXT = "Hide Battery Text";
+		HIDE_BATTERYVIEW = "Hide BatteryView";
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
+
+		BATTERYVIEW_TITLE = "Battery Settings";
+		LOCKHTML3 = LockHTML3;
+
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "Hide CC Grabber";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "Hide NC Grabber";
+		CUSTOM_CAMERA_GRABBER = "Custom Camera Grabber";
+		HIDE_CAMERA_GRABBER = "Hide Camera Grabber";
+		DISABLE_CAMERA_GRABBER = "Disable Camera Grabber";
+		HIDE_UNLOCK_CHEVRON = "Hide Unlock Chevron";
+		HIDE_UNLOCK_TEXT = "Hide Unlock Text";
+		HIDE_DATE_ONLY = "Hide Date Only";
+		HIDE_CLOCK_VIEW = "Hide Clock View";
+
+		HIDE_SETTINGS_TITLE = "Hide LS Elements";
+		LOCKHTML3 = LockHTML3;
+
+		/* Main Settings */
+
+		THEMES_FOOTER = "Themes will get applied when you Lock your iDevice, and will NOT require a resping";
+		ENABLE_HTML = "Enable HTML";
+		SELECT_WIDGET = "Select Widget";
+
+		WIDGET_POSITION = "Widget Position";
+		BELOW_NOTIFICATIONS = "Below Notifications";
+		ABOVE_NOTIFICATIONS = "Above Notifications";
+		BACKGROUND_POSITION = "Background(Touch Disabled)";
+
+		ADVANCED_SETTINGS_HEADER = "Advanced Settings";
+		HIDE_SETTINGS = "Hide LockScreen Elements";
+		WIDGET_ACTION_SETTINGS = "Widget Actions";
+		NOTIFICATIONS_SETTINGS = "Notification Settings";
+		BATTERYVIEW_SETTINGS = "BatteryView Settings";
+		CUSTOM_STRING_SETTINGS = "Custom String Settings";
+		MISC_SETTINGS = "Misc Settings";
+
+		LOCATION_FOOTER = "Will Update myLocation.txt manually for those that do not wish to use myLocation App, Respring your device once this has been completed";
+		LOCATION_BUTTON = "Manually Get Location";
+
+		ADVANCED_SETTINGS = "Advanced";
+		LOCKHTML3 = LockHTML3;
+
+		/* WidgetAction Settings */
+
+		FADE_WHILE_SCROLLING_FOOTER = "Fades the Widget While Scrollling on the LockScreen";
+		FADE_WHILE_SCROLLING = "Fade While Scrolling";
+
+		FADE_WHILE_CHARGING_FOOTER = "Fades the Widget while the ChargingView is Visible";
+		FADE_WHILE_CHARGING = "Fade While Charging";
+
+		FADE_WITH_CONTROL_CENTER_FOOTER = "Fades the Widget while lifting ControlCenter";
+		FADE_WITH_CONTROL_CENTER = "Fade With ControlCenter";
+
+		FADE_WITH_NOTIFICATIONS_FOOTER = "Fades the Widget when Notifications are visible, only recommend to be off with iWidgets or Below Notifications";
+		FADE_WITH_NOTIFICATIONS = "Fade With Notifications";
+
+		WIDGET_ACTIONS_TITLE = "Widget Actions";
+		LOCKHTML3 = LockHTML3;
+
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "When NowPlaying plugin is enabled, notifications will revert to original placement";
+		Notifications_Placement_Settings = "Notifications Placement Settings";
+		NOTIFICATION_TO_THE_TOP = "Bring Notification to Top";
+		FULLSCREEN_NOTIFICATIONS = "FullScreen Notifications";
+		CUSTOM_NOTIFICATION_START = "Custom Notification Start";
+		CUSTOM_NOTIFICATION_END = "Custom Notification End";
+		HIDE_NOTIFICATION_SEPARATORS = "Hide LS Separators";
+		NOTIFICATIONS_TITLE = "Notification Settings";
+		LOCKHTML3 = LockHTML3;
+
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Custom Slide to Unlock String";
+		CUSTOM_LEGAL_STRING = "Custom Legal String";
+
+		CUSTOM_STRINGS_TITLE = "Custom String Settings";
+		LOCKHTML3 = LockHTML3;
+
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "Disable Overlay Blur";
+		DISABLE_OVERLAY_TINT = "Disable Overlay Tint";
+		SHOW_STATUSBAR_TIME = "Show StatusBar Time";
+		HIDE_STATUSBAR = "Hide StatusBar";
+		SMALL_STATUSBAR = "Small StatusBar";
+		HALF_HIDE_GRABBERS = "Partially Hide Grabbers";
+		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "Custom LS Timeout";
+		5_SECONDS = "5 Seconds";
+		6_SECONDS = "6 Seconds";
+		7_SECONDS = "7 Seconds";
+		8_SECONDS = "8 Seconds";
+		9_SECONDS = "9 Seconds";
+		10_SECONDS = "10 Seconds";
+		15_SECONDS = "15 Seconds";
+		20_SECONDS = "20 Seconds";
+		25_SECONDS = "25 Seconds";
+		30_SECONDS = "30 Seconds";
+		35_SECONDS = "35 Seconds";
+		40_SECONDS = "40 Seconds";
+		45_SECONDS = "45 Seconds";
+		50_SECONDS = "50 Seconds";
+		55_SECONDS = "55 Seconds";				
+		1_MINUTE = "1 Minute";
+		2_MINUTES = "2 Minutes";
+		3_MINUTES = "3 Minutes";
+		4_MINUTES = "4 Minutes";
+		5_MINUTES = "5 Minutes";
+		10_MINUTES = "10 Minutes";
+		1_HOUR = "1 Hour";	
+
+		MISC_TITLE ="Misc Settings";
+		LOCKHTML3 = LockHTML3;
+
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "X Coordinate";
+		Y_COORDINATE = "Y Coordinate";
+
+		WIDGET_COORDINATES_TITLE = "Widget Coordinates";
+
+}
