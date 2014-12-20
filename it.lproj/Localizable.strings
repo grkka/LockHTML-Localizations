@@ -34,6 +34,7 @@
 		DISABLE_FADE_OUT_TIMER = "Ferma Dissolvenza Percentuale";
 		HIDE_BATTERY_TEXT = "Nascondi Percentuale";
 		HIDE_BATTERYVIEW = "Nascondi Batteria";
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
 		BATTERYVIEW_TITLE = "Impostazioni Batteria";
 		
@@ -43,6 +44,7 @@
 		HIDE_NOTIFICATION_CENTER_GRABBER = "Nascondi Indicatore NC";
 		CUSTOM_CAMERA_GRABBER = "Icona Fotocamera Personale";
 		HIDE_CAMERA_GRABBER = "Nascondi Fotocamera";
+		DISABLE_CAMERA_GRABBER = "Disable Camera Grabber";
 		HIDE_UNLOCK_CHEVRON = "Nascondi Simbolo >";
 		HIDE_UNLOCK_TEXT = "Nascondi Testo di Sblocco";
 		HIDE_DATE_ONLY = "Nascondi Solo Data";
@@ -97,6 +99,7 @@
 		NOTIFICATION_TO_THE_TOP = "Notifiche In Alto";
 		FULLSCREEN_NOTIFICATIONS = "Notifiche a Schermo Intero";
 		CUSTOM_NOTIFICATION_START = "Posizione Notifiche Personale";
+		CUSTOM_NOTIFICATION_END = "Custom Notification End";
 		HIDE_NOTIFICATION_SEPARATORS = "Nascondi Divisori";
 		NOTIFICATIONS_TITLE = "Impostazioni Notifiche";
 		
