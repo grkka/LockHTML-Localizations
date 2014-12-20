@@ -34,6 +34,7 @@
 		DISABLE_FADE_OUT_TIMER = "Pil Göstergesini Sürekli Göster";
 		HIDE_BATTERY_TEXT = "Pil Yazısını Gizle";
 		HIDE_BATTERYVIEW = "Pil Görselini Gizle";
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
 		BATTERYVIEW_TITLE = "Pil Göstergesi Ayarları";
 		
@@ -43,6 +44,7 @@
 		HIDE_NOTIFICATION_CENTER_GRABBER = "BM Simgesini Gizle";
 		CUSTOM_CAMERA_GRABBER = "Özel Kamera Simgesi";
 		HIDE_CAMERA_GRABBER = "Kamera Simgesini Gizle";
+		DISABLE_CAMERA_GRABBER = "Disable Camera Grabber";
 		HIDE_UNLOCK_CHEVRON = "Kilit Aç Nişanını Gizle";
 		HIDE_UNLOCK_TEXT = "Kilit Aç Yazısını Gizle";
 		HIDE_DATE_ONLY = "Sadece Tarihi Gizle";
@@ -81,6 +83,7 @@
 		NOTIFICATION_TO_THE_TOP = "Bildirimleri Yukarı Çek";
 		FULLSCREEN_NOTIFICATIONS = "Tam Ekran Bildirimler";
 		CUSTOM_NOTIFICATION_START = "Özel Bildirim Başlangıcı Konumu";
+		CUSTOM_NOTIFICATION_END = "Custom Notification End";
 		HIDE_NOTIFICATION_SEPARATORS = "KE Ayraçlarını Gizle";
 		NOTIFICATIONS_TITLE = "Bildirim Ayarları";
 		
