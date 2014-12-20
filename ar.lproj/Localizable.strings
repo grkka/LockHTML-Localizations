@@ -1,0 +1,150 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "إخفاء مجلدات الثيمات";
+		HIDE_THEME_FOOTER = ".السماح لك بإخفاء كامل أدوات مجلد الثيمات";
+
+		HIDE_LOCKHTML_THEMES = "إخفاء ثيمات LockHTML";
+		HIDE_WINTERBOARD_THEMES = "إخفاء ثيمات وينتربورد";
+		HIDE_PERPAGEHTML_THEMES = "PerPageHTML إخفاء ثيمات";
+		HIDE_IWIDGET_THEMES = "إخفاء ثيمات iWidgets";
+		HIDE_GROOVYLOCK_THEMES = "إخفاء ثيمات GroovyLock";
+		HIDE_WIDGETHTML = "Widget.html إخفاء";
+		HIDE_LOCKBACKGROUNDHTML = "إخفاء LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "ضبط إحداثيّات الودجت";
+		DISABLE_EDIT_MODE = "إيقاف وضع التحرير";
+		ONLY_Y_AXIS = "المحور الصادي فقط";
+
+		CACHED_MODE_FOOTER = "ربما لديك مشكلة عدم تحديث الويدجت بشكل صحيح. تتطلب عمل ريسبرنق";
+		CACHED_MODE = "وضع التخزين المؤقت";
+
+		ADVANCED_TITLE = "متقدم";
+		
+
+		/* BatterView Settings */
+
+		BATTERY_POSITION = "إرتفاع البطارية";
+		CUSTOM_BATTERY_POSITION = "موقع مخصص للبطارية";
+		PRECISE_BATTERY_POSITION = "موقع محدد للبطارية";
+		CUSTOM_BATTERY_TEXT_POSITION = "موقع نص مخصص للبطارية";
+		PRECISE_BATTERY_TEST_POSITION = "موقع نص محدد للبطارية";
+		STOP_FADE_OUT = "إيقاف الإخفاء التدريجي للبطارية بشاشة القفل";
+		DISABLE_FADE_OUT_TIMER = "إلغاء مؤقت الإخفاء التدريجي للبطارية";
+		HIDE_BATTERY_TEXT = "إخفاء نسبة البطارية";
+		HIDE_BATTERYVIEW = "إخفاء البطارية";
+
+		BATTERYVIEW_TITLE = "إعدادات البطارية";
+
+		/* Main Settings */
+
+		THEMES_FOOTER = "سيتم تطبيق الثيمات عند إغلاق شاشة القفل, ولن يتطلب عمل ريسبرنق";
+		ENABLE_HTML = "تفعيل HTML";
+		SELECT_WIDGET = "إختيار ويدجت";
+
+		WIDGET_POSITION = "موقع الويدجت";
+		BELOW_NOTIFICATIONS = "التنبيهات السفلية";
+		ABOVE_NOTIFICATIONS = "التنبيهات العلوية";
+		BACKGROUND_POSITION = "الخلفية (تعطيل اللمس)";
+
+		ADVANCED_SETTINGS_HEADER = "إعدادات متقدمة";
+		HIDE_SETTINGS = "إخفاء عناصر شاشة القفل";
+		WIDGET_ACTION_SETTINGS = "إجراءات الويدجت";
+		NOTIFICATIONS_SETTINGS = "إعدادات التنبيهات";
+		BATTERYVIEW_SETTINGS = "إعدادات مظهر البطارية";
+		CUSTOM_STRING_SETTINGS = "إعدادات سلسلة مخصصة";
+		MISC_SETTINGS = "إعدادات متفرقة";
+
+		LOCATION_FOOTER = "تحديث نص الموقع يدوياً لمن لا يريد إستخدام تطبيق myLocation, قم بعمل ريسبرنق عند الإنتهاء";
+		LOCATION_BUTTON = "الحصول على الموقع يدويّاً";
+
+		ADVANCED_SETTINGS = "متقدم";
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "ÅÎÝÇÁ ÔÑíØ ÓÍÈ ãÑßÒ ÇáÊÍßã";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "ÅÎÝÇÁ ÔÑíØ ÓÍÈ ãÑßÒ ÇáÅÔÚÇÑÇÊ";
+		CUSTOM_CAMERA_GRABBER = "Ôßá ãÎÕÕ áãÞÈÖ ÇáßÇãíÑÇ";
+		HIDE_CAMERA_GRABBER = "ÅÎÝÇÁ ãÞÈÖ ÇáßÇãíÑÇ";
+		HIDE_UNLOCK_CHEVRON = "ÅÎÝÇÁ ÔÇÑÉ ÝÊÍ ÇáÞÝá";
+		HIDE_UNLOCK_TEXT = "ÅÎÝÇÁ äÕ ÔÑíØ ÓÍÈ ÇáÞÝá";
+		HIDE_DATE_ONLY = "ÅÎÝÇÁ ÇáÊÇÑíÎ ÝÞØ";
+		HIDE_CLOCK_VIEW = "ÅÎÝÇÁ ÇáÓÇÚÉ";
+
+		HIDE_SETTINGS_TITLE = "ÅÎÝÇÁ ÚäÇÕÑ ÔÇÔÉ ÇáÞÝá";
+		
+		/* WidgetAction Settings */
+
+		FADE_WHILE_SCROLLING_FOOTER = "تلاشي الويدجت أثناء التمرير على شاشة القفل ";
+		FADE_WHILE_SCROLLING = "تلاشي أثناء التمرير";
+
+		FADE_WHILE_CHARGING_FOOTER = "تلاشي الويدجت أثناء ظهور شاشة الشحن";
+		FADE_WHILE_CHARGING = "تلاشي أثناء الشحن";
+
+		FADE_WITH_CONTROL_CENTER_FOOTER = "تلاشي الويدجت أثاء سحب مركز التحكم للأعلى";
+		FADE_WITH_CONTROL_CENTER = "تلاشي مع مركز التحكم";
+
+		FADE_WITH_NOTIFICATIONS_FOOTER = "تلاشي الويدجت أثناء ظهور التنبيهات, يُفضل إيقافها عند إستخدام iWidgets أو التنبيهات السفلية";
+		FADE_WITH_NOTIFICATIONS = "تلاشي مع التنبيهات";
+
+		WIDGET_ACTIONS_TITLE = "إجراءات حركة HTML";
+		
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "ÅÚÇÏÉ ÇáÊäÈíåÇÊ ááæÖÚ ÇáÃÕáí ÚäÏ ÊæÕíá ÓãÇÚÉ ÇáÑÃÓ";
+		NOTIFICATION_TO_THE_TOP = "ÌáÈ ÇáÊäÈíåÇÊ ááÃÚáì";
+		FULLSCREEN_NOTIFICATIONS = "ÊäÈíåÇÊ ÈßÇãá ÇáÔÇÔÉ";
+		CUSTOM_NOTIFICATION_START = "ÈÏÇíÉ ÊäÈíå ãÎÕÕ";
+		HIDE_NOTIFICATION_SEPARATORS = "ÅÎÝÇÁ ÝæÇÕá ÔÇÔÉ ÇáÞÝá";
+		NOTIFICATIONS_TITLE = "ÅÚÏÇÏÇÊ ÇáÊäÈíåÇÊ";
+
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "ÔÑíØ ÓÍÈ ãÎÕÕ áÔÇÔÉ ÇáÞÝá";
+		CUSTOM_LEGAL_STRING = "ÔÑíØ ÓÍÈ ãÎÕÕ";
+
+		CUSTOM_STRINGS_TITLE = "ÅÚÏÇÏÇÊ ÊÎÕíÕ ÔÑíØ ÇáÓÍÈ";
+
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "ÅáÛÇÁ ÇáÛØÇÁ ÇáÖÈÇÈí";
+		DISABLE_OVERLAY_TINT = "ÅáÛÇÁ ÇáÛØÇÁ Çáãáæøä";
+		SHOW_STATUSBAR_TIME = "ÚÑÖ ÇáÓÇÚÉ ÈÔÑíØ ÇáÍÇáÉ";
+		HIDE_STATUSBAR = "ÅÎÝÇÁ ÔÑíØ ÇáÍÇáÉ";
+		SMALL_STATUSBAR = "ÔÑíØ ÍÇáÉ ÃÕÛÑ";
+		HALF_HIDE_GRABBERS = "ÅÎÝÇÁ ÇáÞæÇÈÖ ÌÒÆíøÇð";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "ãåáÉ ãÎÕÕ áÔÇÔÉ ÇáÞÝá";
+		5_SECONDS = "5 ËæÇä";
+		6_SECONDS = "6 ËæÇä";
+		7_SECONDS = "7 ËæÇä";
+		8_SECONDS = "8 ËæÇä";
+		9_SECONDS = "9 ËæÇä";
+		10_SECONDS = "10 ËæÇä";
+		15_SECONDS = "15 ËÇäíÉ";
+		20_SECONDS = "20 ËÇäíÉ";
+		25_SECONDS = "25 ËÇäíÉ";
+		30_SECONDS = "30 ËÇäíÉ";
+		35_SECONDS = "35 ËÇäíÉ";
+		40_SECONDS = "40 ËÇäíÉ";
+		45_SECONDS = "45 ËÇäíÉ";
+		50_SECONDS = "50 ËÇäíÉ";
+		55_SECONDS = "55 ËÇäíÉ";				
+		1_MINUTE = "ÏÞíÞÉ æÇÍÏÉ";
+		2_MINUTES = "ÏÞíÞÊÇä";
+		3_MINUTES = "3 ÏÞÇÆÞ";
+		4_MINUTES = "4 ÏÞÇÆÞ";
+		5_MINUTES = "5 ÏÞÇÆÞ";
+		10_MINUTES = "10 ÏÞÇÆÞ";
+		1_HOUR = "ÓÇÚÉ";	
+
+		MISC_TITLE ="ÅÚÏÇÏÇÊ ãÊÝÑÞÉ";
+
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "تنسيق المحور السيني";
+		Y_COORDINATE = "تنسيق المحور الصادي";
+
+		WIDGET_COORDINATES_TITLE = "تنسيقات الويدجت";
+
+}
