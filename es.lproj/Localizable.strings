@@ -3,121 +3,124 @@
 
 		/* Advanced Settings */
 
-		HIDE_THEME_HEADER = “Esconde “Folders de Temas;
-		HIDE_THEME_FOOTER = “Te permite esconder todo el folder de temas.”;
+		HIDE_THEME_HEADER = "Esconde Folders de Temas";
+		HIDE_THEME_FOOTER = "Te permite esconder todo el folder de temas.";
 
-		HIDE_LOCKHTML_THEMES = “Esconde temas HTML”;
-		HIDE_WINTERBOARD_THEMES = “Esconde temas de WinterBoard";
-		HIDE_PERPAGEHTML_THEMES = “Esconde temas de PerPageHTML";
-		HIDE_IWIDGET_THEMES = “Esconde temas de iWidget";
-		HIDE_GROOVYLOCK_THEMES = “Esconde temas de GroovyLock";
-		HIDE_WIDGETHTML = “Esconde Widget.html";
-		HIDE_LOCKBACKGROUNDHTML = “Esconde LockBackground.html";
+		HIDE_LOCKHTML_THEMES = "Esconde temas HTML";
+		HIDE_WINTERBOARD_THEMES = "Esconde temas de WinterBoard";
+		HIDE_PERPAGEHTML_THEMES = "Esconde temas de PerPageHTML";
+		HIDE_IWIDGET_THEMES = "Esconde temas de iWidget";
+		HIDE_GROOVYLOCK_THEMES = "Esconde temas de GroovyLock";
+		HIDE_WIDGETHTML = "Esconde Widget.html";
+		HIDE_LOCKBACKGROUNDHTML = "Esconde LockBackground.html";
 
-		SET_WIDGET_COORDINATES = “Fija las coordenadas del Widget";
-		DISABLE_EDIT_MODE = “Desactiva Modo Editar";
-		ONLY_Y_AXIS = “Solo Axis Y”;
+		SET_WIDGET_COORDINATES = "Fija las coordenadas del Widget";
+		DISABLE_EDIT_MODE = "Desactiva Modo Editar";
+		ONLY_Y_AXIS = "Solo Axis Y";
 
-		CACHED_MODE_FOOTER = “Puedes tener problemas con widgets no actualizandose. Se requiere un Respring.";
-		CACHED_MODE = “Modo Cache”;
+		CACHED_MODE_FOOTER = "Puedes tener problemas con widgets no actualizandose. Se requiere un Respring.";
+		CACHED_MODE = "Modo Cache";
 
-		ADVANCED_TITLE = “Avanzado”;
+		ADVANCED_TITLE = "Avanzado";
 		
 		/* BatterView Settings */
 
-		BATTERY_POSITION = “Altura de Batteria”;
-		CUSTOM_BATTERY_POSITION = “Ubicación de la Bateria";
-		PRECISE_BATTERY_POSITION = “Ubicación Exacta de la Bateria";
-		CUSTOM_BATTERY_TEXT_POSITION = “Texto de Bateria Personalizada”;
-		PRECISE_BATTERY_TEST_POSITION = “Ubicación Exacta de Texto de Bateria;
-		STOP_FADE_OUT = “Detiene el LS FadeOut”;
-		DISABLE_FADE_OUT_TIMER = “Desactiva el Tiempo de FadeOut";
-		HIDE_BATTERY_TEXT = “Esconde Texto de Bateria";
-		HIDE_BATTERYVIEW = “Esconde “Vista de Bateria;
+		BATTERY_POSITION = "Altura de Batteria";
+		CUSTOM_BATTERY_POSITION = "Ubicación de la Bateria";
+		PRECISE_BATTERY_POSITION = "Ubicación Exacta de la Bateria";
+		CUSTOM_BATTERY_TEXT_POSITION = "Texto de Bateria Personalizada";
+		PRECISE_BATTERY_TEST_POSITION = "Ubicación Exacta de Texto de Bateria";
+		STOP_FADE_OUT = "Detiene el LS FadeOut";
+		DISABLE_FADE_OUT_TIMER = "Desactiva el Tiempo de FadeOut";
+		HIDE_BATTERY_TEXT = "Esconde Texto de Bateria";
+		HIDE_BATTERYVIEW = "Esconde Vista de Bateria";
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
-		BATTERYVIEW_TITLE = “Ajustes de Bateria";
+		BATTERYVIEW_TITLE = "Ajustes de Bateria";
 		
 		/* Hide Settings */
 
-		HIDE_CONTROL_CENTER_GRABBER = “Esconde Grabber de CC";
-		HIDE_NOTIFICATION_CENTER_GRABBER = “Esconde Grabber de NC”;
-		CUSTOM_CAMERA_GRABBER = “Camara Grabber Personalizado";
-		HIDE_CAMERA_GRABBER = “Esconde la Camara Grabber";
-		HIDE_UNLOCK_CHEVRON = “Esconde el Chevron de Desbloqueo";
-		HIDE_UNLOCK_TEXT = “Esconde el Texto de Desbloqueo";
-		HIDE_DATE_ONLY = “Esconde la Fecha";
-		HIDE_CLOCK_VIEW = “Esconde la vista del Reloj";
+		HIDE_CONTROL_CENTER_GRABBER = "Esconde Grabber de CC";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "Esconde Grabber de NC";
+		CUSTOM_CAMERA_GRABBER = "Camara Grabber Personalizado";
+		HIDE_CAMERA_GRABBER = "Esconde la Camara Grabber";
+		DISABLE_CAMERA_GRABBER = "Disable Camera Grabber";
+		HIDE_UNLOCK_CHEVRON = "Esconde el Chevron de Desbloqueo";
+		HIDE_UNLOCK_TEXT = "Esconde el Texto de Desbloqueo";
+		HIDE_DATE_ONLY = "Esconde la Fecha";
+		HIDE_CLOCK_VIEW = "Esconde la vista del Reloj";
 
-		HIDE_SETTINGS_TITLE = “Esconde los Elementos de LS";
+		HIDE_SETTINGS_TITLE = "Esconde los Elementos de LS";
 		
 		/* Main Settings */
 
-		THEMES_FOOTER = “Los Temas se Aplicaran Cuando Bloquees tu Dispositivo, sin un Respring “;
-		ENABLE_HTML = “Activa HTML";
-		SELECT_WIDGET = “Selecciona un Widget";
+		THEMES_FOOTER = "Los Temas se Aplicaran Cuando Bloquees tu Dispositivo, sin un Respring ";
+		ENABLE_HTML = "Activa HTML";
+		SELECT_WIDGET = "Selecciona un Widget";
 
-		WIDGET_POSITION = “Posicion del Widget";
-		BELOW_NOTIFICATIONS = “Abajo de las Notificaciones";
-		ABOVE_NOTIFICATIONS = “Arriba de las Notificaciones";
-		BACKGROUND_POSITION = “En el Fondo(Touch Desactivado)”;
+		WIDGET_POSITION = "Posicion del Widget";
+		BELOW_NOTIFICATIONS = "Abajo de las Notificaciones";
+		ABOVE_NOTIFICATIONS = "Arriba de las Notificaciones";
+		BACKGROUND_POSITION = "En el Fondo(Touch Desactivado)";
 
-		ADVANCED_SETTINGS_HEADER = “Ajustes Avanzados";
-		HIDE_SETTINGS = “Esconde Elementos del Lockscreen";
-		WIDGET_ACTION_SETTINGS = “Acciones del Widget";
-		NOTIFICATIONS_SETTINGS = “Ajustes de Notificaciones";
-		BATTERYVIEW_SETTINGS = “Ajustes de Vista de Bateria";
-		CUSTOM_STRING_SETTINGS = “Ajustes de Texto Personalizado";
-		MISC_SETTINGS = “Ajustes Diversos”;
+		ADVANCED_SETTINGS_HEADER = "Ajustes Avanzados";
+		HIDE_SETTINGS = "Esconde Elementos del Lockscreen";
+		WIDGET_ACTION_SETTINGS = "Acciones del Widget";
+		NOTIFICATIONS_SETTINGS = "Ajustes de Notificaciones";
+		BATTERYVIEW_SETTINGS = "Ajustes de Vista de Bateria";
+		CUSTOM_STRING_SETTINGS = "Ajustes de Texto Personalizado";
+		MISC_SETTINGS = "Ajustes Diversos";
 
-		LOCATION_FOOTER = “Actualizara myLocation.txt manualmente para los que no quern user myLocation App, un Respring es necesario cuando esto este completado";
-		LOCATION_BUTTON = “Obtén la Ubicación Manualmente";
+		LOCATION_FOOTER = "Actualizara myLocation.txt manualmente para los que no quern user myLocation App, un Respring es necesario cuando esto este completado";
+		LOCATION_BUTTON = "Obtén la Ubicación Manualmente";
 
-		ADVANCED_SETTINGS = “Avanzado”;
+		ADVANCED_SETTINGS = "Avanzado";
 		
 		/* WidgetAction Settings */
 
-		FADE_WHILE_SCROLLING_FOOTER = “Descolora la Widget cuando Desbloqueas en Lockscreen";
-		FADE_WHILE_SCROLLING = “Descolora mientras Scrolling";
+		FADE_WHILE_SCROLLING_FOOTER = "Descolora la Widget cuando Desbloqueas en Lockscreen";
+		FADE_WHILE_SCROLLING = "Descolora mientras Scrolling";
 
-		FADE_WHILE_CHARGING_FOOTER = “Descolora la Widget mientras Vista de Carga seta Visible";
-		FADE_WHILE_CHARGING = “Descolora Mientras seta Cargándose";
+		FADE_WHILE_CHARGING_FOOTER = "Descolora la Widget mientras Vista de Carga seta Visible";
+		FADE_WHILE_CHARGING = "Descolora Mientras seta Cargándose";
 
-		FADE_WITH_CONTROL_CENTER_FOOTER = “Descolora la Widget mientras usas ControlCenter";
-		FADE_WITH_CONTROL_CENTER = “Descolora Con ControlCenter";
+		FADE_WITH_CONTROL_CENTER_FOOTER = "Descolora la Widget mientras usas ControlCenter";
+		FADE_WITH_CONTROL_CENTER = "Descolora Con ControlCenter";
 
-		FADE_WITH_NOTIFICATIONS_FOOTER = “Descolora la Widget cuando las Notificaciones son visibles, solo recomendado estar desactivado cuando son iWidgets o Debajo de Notificaciones";
-		FADE_WITH_NOTIFICATIONS = “Descolora Con Notifications";
+		FADE_WITH_NOTIFICATIONS_FOOTER = "Descolora la Widget cuando las Notificaciones son visibles, solo recomendado estar desactivado cuando son iWidgets o Debajo de Notificaciones";
+		FADE_WITH_NOTIFICATIONS = "Descolora Con Notifications";
 
-		WIDGET_ACTIONS_TITLE = “Acciones HTML";
+		WIDGET_ACTIONS_TITLE = "Acciones HTML";
 		
 		/* Notification Settings */
 
-		NOTIFICATION_PLACEMENT_FOOTER = “Cuando el plugin NowPlaying esté activado , las notificaciones se revertirán a su posición original";
+		NOTIFICATION_PLACEMENT_FOOTER = "Cuando el plugin NowPlaying esté activado , las notificaciones se revertirán a su posición original";
 		Notifications_Placement_Settings = "Notifications Placement Settings";
-		NOTIFICATION_TO_THE_TOP = “Trae las notificaciones hasta Arriba”;
-		FULLSCREEN_NOTIFICATIONS = “Modo Completo de Notificaciones”;
-		CUSTOM_NOTIFICATION_START = “Ajuste de Donde empiezan las Notificaciones";
-		HIDE_NOTIFICATION_SEPARATORS = “Esconde Separadores de LS";
-		NOTIFICATIONS_TITLE = “Ajustes de Notificaciones";
+		NOTIFICATION_TO_THE_TOP = "Trae las notificaciones hasta Arriba";
+		FULLSCREEN_NOTIFICATIONS = "Modo Completo de Notificaciones";
+		CUSTOM_NOTIFICATION_START = "Ajuste de Donde empiezan las Notificaciones";
+		CUSTOM_NOTIFICATION_END = "Custom Notification End";
+		HIDE_NOTIFICATION_SEPARATORS = "Esconde Separadores de LS";
+		NOTIFICATIONS_TITLE = "Ajustes de Notificaciones";
 		
 		/* Custom Strings Settings */
 
-		CUSTOM_SLIDE_TO_UNLOCK_STRING = “Personaliza el texto de Desbloqueo";
-		CUSTOM_LEGAL_STRING = “Personaliza el Texto Legal";
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Personaliza el texto de Desbloqueo";
+		CUSTOM_LEGAL_STRING = "Personaliza el Texto Legal";
 
-		CUSTOM_STRINGS_TITLE = “Personaliza el Texto de Titulo”;
+		CUSTOM_STRINGS_TITLE = "Personaliza el Texto de Titulo";
 		
 		/* Misc Settings */
 
-		DISABLE_OVERLAY_BLUR = “Desactiva el Overlay Borroso”;
-		DISABLE_OVERLAY_TINT = “Desactiva el Tinte del Overlay";
-		SHOW_STATUSBAR_TIME = “Muestra el Tiempo en la  StatusBar";
-		HIDE_STATUSBAR = “Esconde la StatusBar";
-		SMALL_STATUSBAR = "StatusBar mas Pequeña”;
-		HALF_HIDE_GRABBERS = “Esconde Parcialmente los Grabbers";
+		DISABLE_OVERLAY_BLUR = "Desactiva el Overlay Borroso";
+		DISABLE_OVERLAY_TINT = "Desactiva el Tinte del Overlay";
+		SHOW_STATUSBAR_TIME = "Muestra el Tiempo en la  StatusBar";
+		HIDE_STATUSBAR = "Esconde la StatusBar";
+		SMALL_STATUSBAR = "StatusBar mas Pequeña";
+		HALF_HIDE_GRABBERS = "Esconde Parcialmente los Grabbers";
 		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
-		CUSTOM_LOCKSCREEN_TIMEOUT = “Tiempo Personalizado de LS";
-		5_SECONDS = "5 Segundos”;
+		CUSTOM_LOCKSCREEN_TIMEOUT = "Tiempo Personalizado de LS";
+		5_SECONDS = "5 Segundos";
 		6_SECONDS = "6 Segundos";
 		7_SECONDS = "7 Segundos";
 		8_SECONDS = "8 Segundos";
@@ -132,21 +135,21 @@
 		45_SECONDS = "45 Segundos";
 		50_SECONDS = "50 Segundos";
 		55_SECONDS = "55 Segundos";				
-		1_MINUTE = "1 Minuto”;
-		2_MINUTES = "2 Minutos”;
+		1_MINUTE = "1 Minuto";
+		2_MINUTES = "2 Minutos";
 		3_MINUTES = "3 Minutos";
 		4_MINUTES = "4 Minutos";
 		5_MINUTES = "5 Minutos";
 		10_MINUTES = "10 Minutos";
-		1_HOUR = "1 Hora”;	
+		1_HOUR = "1 Hora";	
 
-		MISC_TITLE =“Ajustes Diversos”;
+		MISC_TITLE ="Ajustes Diversos";
 		
 		/* Widget Coordinates Settings */
 
-		X_COORDINATE = “Coordenada de X";
-		Y_COORDINATE = “Coordenada de Y";
+		X_COORDINATE = "Coordenada de X";
+		Y_COORDINATE = "Coordenada de Y";
 
-		WIDGET_COORDINATES_TITLE = “Coordenada de Widgets";
+		WIDGET_COORDINATES_TITLE = "Coordenada de Widgets";
 		
 }
