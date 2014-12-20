@@ -93,6 +93,7 @@
 		/* Notification Settings */
 
 		NOTIFICATION_PLACEMENT_FOOTER = "當"現正播放"插件啟用時，通知將回復到原始位置";
+		Notifications_Placement_Settings = "Notifications Placement Settings";
 		NOTIFICATION_TO_THE_TOP = "通知置頂";
 		FULLSCREEN_NOTIFICATIONS = "全螢幕顯示通知";
 		CUSTOM_NOTIFICATION_START = "自訂通知位置";
@@ -114,6 +115,7 @@
 		HIDE_STATU傻瓜AR = "隱藏狀態欄";
 		SMALL_STATU傻瓜AR = "較小的狀態欄";
 		HALF_HIDE_GRABBERS = "隱藏部分抓取圖標";
+		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
 		CUSTOM_LOCKSCREEN_TIMEOUT = "自訂鎖定畫面變暗時間";
 		5_SECONDS = "5 秒";
 		6_SECONDS = "6 秒";
