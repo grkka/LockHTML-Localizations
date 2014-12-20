@@ -1,0 +1,151 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "Nascondi Cartelle Temi";
+		HIDE_THEME_FOOTER = "Permette di nascondere le cartelle dei temi.";
+
+		HIDE_LOCKHTML_THEMES = "Nascondi Temi LockHTML";
+		HIDE_WINTERBOARD_THEMES = "Nascondi Temi WinterBoard";
+		HIDE_PERPAGEHTML_THEMES = "Nascondi Temi PerPageHTML";
+		HIDE_IWIDGET_THEMES = "Nascondi Temi iWidget";
+		HIDE_GROOVYLOCK_THEMES = "Nascondi Temi GroovyLock";
+		HIDE_WIDGETHTML = "Nascondi Widget.html";
+		HIDE_LOCKBACKGROUNDHTML = "Nascondi LockBackground.html";
+
+		SET_WIDGET_COORDINATES = "Aggiusta Coordinate Widget";
+		DISABLE_EDIT_MODE = "Disabilita Modalità Modifica";
+		ONLY_Y_AXIS = "Solo Asse Y";
+
+		CACHED_MODE_FOOTER = "I widgets potrebbero non aggiornarsi correttamente. Richiede il Respring.";
+		CACHED_MODE = "Modalità Memoria";
+
+		ADVANCED_TITLE = "Avanzate";
+		
+		/* BatterView Settings */
+
+		BATTERY_POSITION = "Altezza Batteria";
+		CUSTOM_BATTERY_POSITION = "Riposiziona Batteria";
+		PRECISE_BATTERY_POSITION = "Posizione Esatta Batteria";
+		CUSTOM_BATTERY_TEXT_POSITION = "Riposiziona Percentuale";
+		PRECISE_BATTERY_TEST_POSITION = "Posizione Esatta Percentuale";
+		STOP_FADE_OUT = "Ferma Dissolvenza Batteria";
+		DISABLE_FADE_OUT_TIMER = "Ferma Dissolvenza Percentuale";
+		HIDE_BATTERY_TEXT = "Nascondi Percentuale";
+		HIDE_BATTERYVIEW = "Nascondi Batteria";
+
+		BATTERYVIEW_TITLE = "Impostazioni Batteria";
+		
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "Nascondi Indicatore CC";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "Nascondi Indicatore NC";
+		CUSTOM_CAMERA_GRABBER = "Icona Fotocamera Personale";
+		HIDE_CAMERA_GRABBER = "Nascondi Fotocamera";
+		HIDE_UNLOCK_CHEVRON = "Nascondi Simbolo >";
+		HIDE_UNLOCK_TEXT = "Nascondi Testo di Sblocco";
+		HIDE_DATE_ONLY = "Nascondi Solo Data";
+		HIDE_CLOCK_VIEW = "Nascondi Orologio";
+
+		HIDE_SETTINGS_TITLE = "Nascondi Elementi LS";
+		
+		/* Main Settings */
+
+		THEMES_FOOTER = "I Temi vengono applicati quando si blocca il Device. NON richiede un Respring";
+		ENABLE_HTML = "Attiva HTML";
+		SELECT_WIDGET = "Seleziona Widget";
+
+		WIDGET_POSITION = "Posizione Widget";
+		BELOW_NOTIFICATIONS = "Sotto le Notifiche";
+		ABOVE_NOTIFICATIONS = "Sopra le Notifiche";
+		BACKGROUND_POSITION = "Sfondo (Tocco Disabilitato)";
+
+		ADVANCED_SETTINGS_HEADER = "Impostazioni Avanzate";
+		HIDE_SETTINGS = "Nascondi Elementi LockScreen";
+		WIDGET_ACTION_SETTINGS = "Impostazioni Widget";
+		NOTIFICATIONS_SETTINGS = "Impostazioni Notifiche";
+		BATTERYVIEW_SETTINGS = "Impostazioni Batteria";
+		CUSTOM_STRING_SETTINGS = "Impostazioni Sblocco";
+		MISC_SETTINGS = "Varie";
+
+		LOCATION_FOOTER = "Per quelli che desiderano non utilizzare l'App "myLocation", il file myLocation.txt andrà aggiornato manualmente. Effettuare un Respring al termine dell'operazione";
+		LOCATION_BUTTON = "Imposta Localizzazione Manualmente";
+
+		ADVANCED_SETTINGS = "Avanzate";
+		
+		/* WidgetAction Settings */
+
+		FADE_WHILE_SCROLLING_FOOTER = "Dissolvi il Widget quando scorri sulla LockScreen";
+		FADE_WHILE_SCROLLING = "Dissolvi Mentre Scorri";
+
+		FADE_WHILE_CHARGING_FOOTER = "Dissolvi il Widget quando la Batteria è visibile";
+		FADE_WHILE_CHARGING = "Dissolvi in Carica";
+
+		FADE_WITH_CONTROL_CENTER_FOOTER = "Dissolvi il Widget quando richiami il Control Center";
+		FADE_WITH_CONTROL_CENTER = "Dissolvi con Control Center";
+
+		FADE_WITH_NOTIFICATIONS_FOOTER = "Dissolvi il Widget mentre si ricevono Notifiche";
+		FADE_WITH_NOTIFICATIONS = "Dissolvi con Notifiche";
+
+		WIDGET_ACTIONS_TITLE = "Impostazioni HTML";
+		
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "Se la schermata dei controlli musicali è attiva, le notifiche torneranno alla posizione originale";
+		Notifications_Placement_Settings = "Notifications Placement Settings";
+		NOTIFICATION_TO_THE_TOP = "Notifiche In Alto";
+		FULLSCREEN_NOTIFICATIONS = "Notifiche a Schermo Intero";
+		CUSTOM_NOTIFICATION_START = "Posizione Notifiche Personale";
+		HIDE_NOTIFICATION_SEPARATORS = "Nascondi Divisori";
+		NOTIFICATIONS_TITLE = "Impostazioni Notifiche";
+		
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Testo Sblocco Personale";
+		CUSTOM_LEGAL_STRING = "Sottotitolo Personale";
+
+		CUSTOM_STRINGS_TITLE = "Impostazioni Sblocco";
+		
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "Disabilita Sfocatura";
+		DISABLE_OVERLAY_TINT = "Disabilita Tinta Scura";
+		SHOW_STATUSBAR_TIME = "Mostra Orario Statusbar";
+		HIDE_STATUSBAR = "Nascondi Statusbar";
+		SMALL_STATUSBAR = "Icone Statusbar Piccole";
+		HALF_HIDE_GRABBERS = "Indicatori NC/CC Parziali";
+		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "Timeout LockScreen";
+		5_SECONDS = "5 Secondi";
+		6_SECONDS = "6 Secondi";
+		7_SECONDS = "7 Secondi";
+		8_SECONDS = "8 Secondi";
+		9_SECONDS = "9 Secondi";
+		10_SECONDS = "10 Secondi";
+		15_SECONDS = "15 Secondi";
+		20_SECONDS = "20 Secondi";
+		25_SECONDS = "25 Secondi";
+		30_SECONDS = "30 Secondi";
+		35_SECONDS = "35 Secondi";
+		40_SECONDS = "40 Secondi";
+		45_SECONDS = "45 Secondi";
+		50_SECONDS = "50 Secondi";
+		55_SECONDS = "55 Secondi";				
+		1_MINUTE = "1 Minuto";
+		2_MINUTES = "2 Minuti";
+		3_MINUTES = "3 Minuti";
+		4_MINUTES = "4 Minuti";
+		5_MINUTES = "5 Minuti";
+		10_MINUTES = "10 Minuti";
+		1_HOUR = "1 Ora";	
+
+		MISC_TITLE ="Impostazioni Varie";
+		
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "Coordinata X";
+		Y_COORDINATE = "Coordinata Y";
+
+		WIDGET_COORDINATES_TITLE = "Coordinate Widget";
+}
