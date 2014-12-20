@@ -44,10 +44,12 @@
 		HIDE_NOTIFICATION_CENTER_GRABBER = "إخفاء شريط سحب مركز الإشعارات";
 		CUSTOM_CAMERA_GRABBER = "شكل مخصص لمقبض الكاميرا";
 		HIDE_CAMERA_GRABBER = "إخفاء مقبض الكاميرا";
+		DISABLE_CAMERA_GRABBER = "Disable Camera Grabber";
 		HIDE_UNLOCK_CHEVRON = "إخفاء شارة فتح القفل";
 		HIDE_UNLOCK_TEXT = "إخفاء نص شريط سحب القفل";
 		HIDE_DATE_ONLY = "إخفاء التاريخ فقط";
 		HIDE_CLOCK_VIEW = "إخفاء الساعة";
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
 		HIDE_SETTINGS_TITLE = "إخفاء عناصر شاشة القفل";
 
@@ -110,6 +112,7 @@
 		NOTIFICATION_TO_THE_TOP = "جلب التنبيهات للأعلى";
 		FULLSCREEN_NOTIFICATIONS = "تنبيهات بكامل الشاشة";
 		CUSTOM_NOTIFICATION_START = "بداية تنبيه مخصص";
+		CUSTOM_NOTIFICATION_END = "Custom Notification End";
 		HIDE_NOTIFICATION_SEPARATORS = "إخفاء فواصل شاشة القفل";
 		NOTIFICATIONS_TITLE = "إعدادات التنبيهات";
 
