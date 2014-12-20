@@ -20,7 +20,7 @@
 
 		CACHED_MODE_FOOTER = "恢复v1.3前的缓存样式。如您的小部件未能正常启用，请重新注销主屏幕。";
 		CACHED_MODE = "缓存模式";
-		DISABLE_LS_TIMEOUT = "禁止锁屏变暗"
+		DISABLE_LS_TIMEOUT = "禁止锁屏变暗";
 
 		ADVANCED_TITLE = "高级";
 		
@@ -35,6 +35,7 @@
 		DISABLE_FADE_OUT_TIMER = "充电时始终显示电量";
 		HIDE_BATTERY_TEXT = "隐藏“正在充电”文字";
 		HIDE_BATTERYVIEW = "隐藏“正在充电”";
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
 		BATTERYVIEW_TITLE = "电池样式设置";
 		
@@ -68,6 +69,7 @@
 		HIDE_NOTIFICATION_CENTER_GRABBER = "隐藏通知中心 Grabber";
 		CUSTOM_CAMERA_GRABBER = "自定义相机图标";
 		HIDE_CAMERA_GRABBER = "隐藏相机图标";
+		DISABLE_CAMERA_GRABBER = "Disable Camera Grabber";
 		HIDE_UNLOCK_CHEVRON = "隐藏解锁箭头";
 		HIDE_UNLOCK_TEXT = "隐藏解锁文字";
 		HIDE_DATE_ONLY = "仅隐藏日期";
@@ -98,6 +100,7 @@
 		NOTIFICATION_TO_THE_TOP = "置顶通知";
 		FULLSCREEN_NOTIFICATIONS = "全屏显示通知";
 		CUSTOM_NOTIFICATION_START = "自定义通知位置";
+		CUSTOM_NOTIFICATION_END = "Custom Notification End";
 		HIDE_NOTIFICATION_SEPARATORS = "隐藏分隔线";
 		NOTIFICATIONS_TITLE = "通知设置";
 		
