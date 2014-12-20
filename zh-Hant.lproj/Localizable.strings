@@ -32,8 +32,8 @@
 		PRECISE_BATTERY_TEST_POSITION = "當前電池文字位置";
 		STOP_FADE_OUT = "禁止“正在充電”的淡入效果";
 		DISABLE_FADE_OUT_TIMER = "充電時始終顯示電量";
-		HIDE_BATTERY_TEXT = "隱藏"正在充電”文字";
-		HIDE_BATTERYVIEW = "隱藏“正在充電”";
+		HIDE_BATTERY_TEXT = '隱藏"正在充電”文字';
+		HIDE_BATTERYVIEW = '隱藏“正在充電”';
 
 		BATTERYVIEW_TITLE = "電池樣式設定";
 		
