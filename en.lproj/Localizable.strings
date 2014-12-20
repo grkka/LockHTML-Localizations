@@ -22,7 +22,6 @@
 		CACHED_MODE = "Cached Mode";
 
 		ADVANCED_TITLE = "Advanced";
-		LOCKHTML3 = LockHTML3;
 
 		/* BatterView Settings */
 
@@ -38,7 +37,6 @@
 		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
 		BATTERYVIEW_TITLE = "Battery Settings";
-		LOCKHTML3 = LockHTML3;
 
 		/* Hide Settings */
 
@@ -53,7 +51,6 @@
 		HIDE_CLOCK_VIEW = "Hide Clock View";
 
 		HIDE_SETTINGS_TITLE = "Hide LS Elements";
-		LOCKHTML3 = LockHTML3;
 
 		/* Main Settings */
 
@@ -78,7 +75,6 @@
 		LOCATION_BUTTON = "Manually Get Location";
 
 		ADVANCED_SETTINGS = "Advanced";
-		LOCKHTML3 = LockHTML3;
 
 		/* WidgetAction Settings */
 
@@ -95,7 +91,6 @@
 		FADE_WITH_NOTIFICATIONS = "Fade With Notifications";
 
 		WIDGET_ACTIONS_TITLE = "Widget Actions";
-		LOCKHTML3 = LockHTML3;
 
 		/* Notification Settings */
 
@@ -107,7 +102,6 @@
 		CUSTOM_NOTIFICATION_END = "Custom Notification End";
 		HIDE_NOTIFICATION_SEPARATORS = "Hide LS Separators";
 		NOTIFICATIONS_TITLE = "Notification Settings";
-		LOCKHTML3 = LockHTML3;
 
 		/* Custom Strings Settings */
 
@@ -115,7 +109,6 @@
 		CUSTOM_LEGAL_STRING = "Custom Legal String";
 
 		CUSTOM_STRINGS_TITLE = "Custom String Settings";
-		LOCKHTML3 = LockHTML3;
 
 		/* Misc Settings */
 
@@ -151,7 +144,6 @@
 		1_HOUR = "1 Hour";	
 
 		MISC_TITLE ="Misc Settings";
-		LOCKHTML3 = LockHTML3;
 
 		/* Widget Coordinates Settings */
 
