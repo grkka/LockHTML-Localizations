@@ -93,6 +93,7 @@
 		/* Notification Settings */
 
 		NOTIFICATION_PLACEMENT_FOOTER = "إعادة التنبيهات للوضع الأصلي عند توصيل سماعة الرأس";
+		Notifications_Placement_Settings = "Notifications Placement Settings";
 		NOTIFICATION_TO_THE_TOP = "جلب التنبيهات للأعلى";
 		FULLSCREEN_NOTIFICATIONS = "تنبيهات بكامل الشاشة";
 		CUSTOM_NOTIFICATION_START = "بداية تنبيه مخصص";
@@ -114,6 +115,7 @@
 		HIDE_STATUSBAR = "إخفاء شريط الحالة";
 		SMALL_STATUSBAR = "شريط حالة أصغر";
 		HALF_HIDE_GRABBERS = "إخفاء القوابض جزئيّاً";
+		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
 		CUSTOM_LOCKSCREEN_TIMEOUT = "مهلة مخصص لشاشة القفل";
 		5_SECONDS = "5 ثوان";
 		6_SECONDS = "6 ثوان";
