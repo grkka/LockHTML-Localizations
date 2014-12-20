@@ -1,0 +1,151 @@
+{
+		LOCKHTML3 = LockHTML3;
+
+		/* Advanced Settings */
+
+		HIDE_THEME_HEADER = "Theme Ordner ausblenden";
+		HIDE_THEME_FOOTER = "Erlaubt es Ihnen einen ganzen Tweak Ordner mit Themes auszublenden.";
+
+		HIDE_LOCKHTML_THEMES = "LockHTML Themes ausblenden";
+		HIDE_WINTERBOARD_THEMES = "WinterBoard Themes ausblenden";
+		HIDE_PERPAGEHTML_THEMES = "PerPageHTML Themes ausblenden";
+		HIDE_IWIDGET_THEMES = "iWidget Themes ausblenden";
+		HIDE_GROOVYLOCK_THEMES = "GroovyLock Themes ausblenden";
+		HIDE_WIDGETHTML = "Widget.html ausblenden";
+		HIDE_LOCKBACKGROUNDHTML = "LockBackground.html ausblenden";
+
+		SET_WIDGET_COORDINATES = "Setze Widget Koordinaten";
+		DISABLE_EDIT_MODE = "Deaktiviere Editier Modus";
+		ONLY_Y_AXIS = "Nur Y Achse";
+
+		CACHED_MODE_FOOTER = "Sie haben anscheinend Probleme mit Widgets welche sich nicht richtig aktualisieren. Bitte führen Sie einen Respring durch.";
+		CACHED_MODE = "Cache Modus";
+
+		ADVANCED_TITLE = "Erweitert";
+		
+		/* BatterView Settings */
+
+		BATTERY_POSITION = "Batterie Höhe";
+		CUSTOM_BATTERY_POSITION = "Eigene Batterie Position";
+		PRECISE_BATTERY_POSITION = "Exakte Batterie Position";
+		CUSTOM_BATTERY_TEXT_POSITION = "Eigene Batterietext Position";
+		PRECISE_BATTERY_TEST_POSITION = "Exakte Batterietext Position";
+		STOP_FADE_OUT = "Verblassen des Sperrbildschirms beim Laden deaktiveren";
+		DISABLE_FADE_OUT_TIMER = "Verblassen Timer deaktivieren";
+		HIDE_BATTERY_TEXT = "Batterietext ausblenden";
+		HIDE_BATTERYVIEW = "Batterie ausblenden";
+
+		BATTERYVIEW_TITLE = "Batterie Einstellungen";
+
+		/* Hide Settings */
+
+		HIDE_CONTROL_CENTER_GRABBER = "Kontrollzentrum Grabber ausblenden";
+		HIDE_NOTIFICATION_CENTER_GRABBER = "Mitteilungszentrale Grabber ausblenden";
+		CUSTOM_CAMERA_GRABBER = "Eigener Kamera Grabber";
+		HIDE_CAMERA_GRABBER = "Kamera Grabber ausblenden";
+		HIDE_UNLOCK_CHEVRON = "Entsperrpfeil ausblenden";
+		HIDE_UNLOCK_TEXT = "Entsperrtext ausblenden";
+		HIDE_DATE_ONLY = "Datum ausblenden";
+		HIDE_CLOCK_VIEW = "Uhr ausblenden";
+
+		HIDE_SETTINGS_TITLE = "Sperrbildschirm Elemente ausblenden";
+		/* Main Settings */
+
+		THEMES_FOOTER = "Themes werden beim Sperren übernommen. Es ist kein Respring nötig.";
+		ENABLE_HTML = "Aktiviere HTML";
+		SELECT_WIDGET = "Wähle Widget";
+
+		WIDGET_POSITION = "Widget Position";
+		BELOW_NOTIFICATIONS = "Unter den Mitteilungen";
+		ABOVE_NOTIFICATIONS = "Über den Mitteilungen";
+		BACKGROUND_POSITION = "Im Hintergrund(Touch deaktiviert)";
+
+		ADVANCED_SETTINGS_HEADER = "Erweiterte Einstellungen";
+		HIDE_SETTINGS = "Sperrbildschirm Elemente ausblenden";
+		WIDGET_ACTION_SETTINGS = "Widget Aktionen";
+		NOTIFICATIONS_SETTINGS = "Mitteilungseinstellungen";
+		BATTERYVIEW_SETTINGS = "Batterie Einstellungen";
+		CUSTOM_STRING_SETTINGS = "Text Einstellungen";
+		MISC_SETTINGS = "Sonstige Einstellungen";
+
+		LOCATION_FOOTER = "Ändert myLocation.txt manuell für all jene, welche die myLocation App nicht nutzten wollen. Nach der Änderung muss ein Respring durchgeführt werden.";
+		LOCATION_BUTTON = "Manuelle Lokalisation";
+
+		ADVANCED_SETTINGS = "Erweitert";
+		
+		/* WidgetAction Settings */
+
+		FADE_WHILE_SCROLLING_FOOTER = "Während des Scrollens auf dem Sperrbildschirm verblasst das Widget";
+		FADE_WHILE_SCROLLING = "Beim Scrollen verblassen";
+
+		FADE_WHILE_CHARGING_FOOTER = "Während des Ladevorgangs verblasst das Widget";
+		FADE_WHILE_CHARGING = "Beim Laden verblassen";
+
+		FADE_WITH_CONTROL_CENTER_FOOTER = "Wenn das Kontrollzentrum geöffnet wird verblasst das Widget";
+		FADE_WITH_CONTROL_CENTER = "Bei geöffnetem Kontrollzentrum verblassen";
+
+		FADE_WITH_NOTIFICATIONS_FOOTER = "Während Mitteilungen sichtbar sind verblasst das Widget. Dekativierung nur bei iWidgets oder unter den Mitteilungen empfohlen.";
+		FADE_WITH_NOTIFICATIONS = "Bei sichtbaren Mitteilungen verblassen";
+
+		WIDGET_ACTIONS_TITLE = "HTML Aktionen";
+		
+		/* Notification Settings */
+
+		NOTIFICATION_PLACEMENT_FOOTER = "Wenn das NowPlaying Plugin aktiviert ist werden alle Mitteilungen zur ursprünglichen Position zurückversetzt";
+		Notifications_Placement_Settings = "Notifications Placement Settings";
+		NOTIFICATION_TO_THE_TOP = "Zeige Mitteilungen oben an";
+		FULLSCREEN_NOTIFICATIONS = "Vollbild Mitteilungen";
+		CUSTOM_NOTIFICATION_START = "Eigener Mitteilungspfäfix";
+		HIDE_NOTIFICATION_SEPARATORS = "Trennlinien zwischen Mitteilungen ausblenden";
+		NOTIFICATIONS_TITLE = "Mitteilungseinstellungen";
+		
+		/* Custom Strings Settings */
+
+		CUSTOM_SLIDE_TO_UNLOCK_STRING = "Eigener Entsperrtext";
+		CUSTOM_LEGAL_STRING = "Eigener Entsperrtext Untertitel";
+
+		CUSTOM_STRINGS_TITLE = "Text Einstellungen";
+		
+		/* Misc Settings */
+
+		DISABLE_OVERLAY_BLUR = "Überlagerungsunschärfe deaktivieren";
+		DISABLE_OVERLAY_TINT = "Überlagerungstönung deaktivieren";
+		SHOW_STATUSBAR_TIME = "Zeige StatusBar Zeit";
+		HIDE_STATUSBAR = "StatusBar ausblenden";
+		SMALL_STATUSBAR = "Kleine Statusbar";
+		HALF_HIDE_GRABBERS = "Grabbers teilweise ausblenden";
+		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
+		CUSTOM_LOCKSCREEN_TIMEOUT = "Eigener Sperrbildschirm Timeout";
+		5_SECONDS = "5 Sekunden";
+		6_SECONDS = "6 Sekunden";
+		7_SECONDS = "7 Sekunden";
+		8_SECONDS = "8 Sekunden";
+		9_SECONDS = "9 Sekunden";
+		10_SECONDS = "10 Sekunden";
+		15_SECONDS = "15 Sekunden";
+		20_SECONDS = "20 Sekunden";
+		25_SECONDS = "25 Sekunden";
+		30_SECONDS = "30 Sekunden";
+		35_SECONDS = "35 Sekunden";
+		40_SECONDS = "40 Sekunden";
+		45_SECONDS = "45 Sekunden";
+		50_SECONDS = "50 Sekunden";
+		55_SECONDS = "55 Sekunden";				
+		1_MINUTE = "1 Minute";
+		2_MINUTES = "2 Minuten";
+		3_MINUTES = "3 Minuten";
+		4_MINUTES = "4 Minuten";
+		5_MINUTES = "5 Minuten";
+		10_MINUTES = "10 Minuten";
+		1_HOUR = "1 Stunde";	
+
+		MISC_TITLE ="Sonstige Einstellungen";
+		
+		/* Widget Coordinates Settings */
+
+		X_COORDINATE = "X Koordinate";
+		Y_COORDINATE = "Y Koordinate";
+
+		WIDGET_COORDINATES_TITLE = "Widget Koordinaten";
+		
+}
