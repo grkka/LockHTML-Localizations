@@ -34,6 +34,7 @@
 		DISABLE_FADE_OUT_TIMER = "Verblassen Timer deaktivieren";
 		HIDE_BATTERY_TEXT = "Batterietext ausblenden";
 		HIDE_BATTERYVIEW = "Batterie ausblenden";
+		ALWAYS_SHOW_BATTERY_TEXT = "Always Show Battery Text";
 
 		BATTERYVIEW_TITLE = "Batterie Einstellungen";
 
@@ -43,6 +44,7 @@
 		HIDE_NOTIFICATION_CENTER_GRABBER = "Mitteilungszentrale Grabber ausblenden";
 		CUSTOM_CAMERA_GRABBER = "Eigener Kamera Grabber";
 		HIDE_CAMERA_GRABBER = "Kamera Grabber ausblenden";
+		DISABLE_CAMERA_GRABBER = "Disable Camera Grabber";
 		HIDE_UNLOCK_CHEVRON = "Entsperrpfeil ausblenden";
 		HIDE_UNLOCK_TEXT = "Entsperrtext ausblenden";
 		HIDE_DATE_ONLY = "Datum ausblenden";
@@ -96,6 +98,7 @@
 		NOTIFICATION_TO_THE_TOP = "Zeige Mitteilungen oben an";
 		FULLSCREEN_NOTIFICATIONS = "Vollbild Mitteilungen";
 		CUSTOM_NOTIFICATION_START = "Eigener Mitteilungspfäfix";
+		CUSTOM_NOTIFICATION_END = "Custom Notification End";
 		HIDE_NOTIFICATION_SEPARATORS = "Trennlinien zwischen Mitteilungen ausblenden";
 		NOTIFICATIONS_TITLE = "Mitteilungseinstellungen";
 		
