@@ -84,12 +84,16 @@
 
 		FADE_WHILE_CHARGING_FOOTER = "显示“正在充电”时淡化小部件";
 		FADE_WHILE_CHARGING = "充电时淡化小部件";
+		SHOW_WITH_BATTERY_TEXT = "Show With Battery Text Only";
 
 		FADE_WITH_CONTROL_CENTER_FOOTER = "出现控制中心时淡化小部件";
 		FADE_WITH_CONTROL_CENTER = "拉起控制中心时淡化小部件";
 
 		FADE_WITH_NOTIFICATIONS_FOOTER = "有新通知时淡化小部件或通知的下一层";
 		FADE_WITH_NOTIFICATIONS = "有新通知时淡化小部件";
+
+		DISABLE_FADE_WITH_NOWPLAYING = "Disable fade with NowPlaying";
+		DISABLE_FADE_WITH_NOWPLAYING_FOOTER = "NOTE: this will disable the fading of widgets when NowPlaying plugin is enable on the lockscreen. This was added after various request, but it is not recommended";
 
 		WIDGET_ACTIONS_TITLE = "HTML 行为";
 		
