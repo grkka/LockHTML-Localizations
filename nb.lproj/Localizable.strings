@@ -87,12 +87,16 @@
 
 		FADE_WHILE_CHARGING_FOOTER = "Fader bort Widget når ChargingView er open";
 		FADE_WHILE_CHARGING = "Fade Når Lader";
+		SHOW_WITH_BATTERY_TEXT = "Show With Battery Text Only";
 
 		FADE_WITH_CONTROL_CENTER_FOOTER = "Fader bort Widget når man løfter ControlCenter";
 		FADE_WITH_CONTROL_CENTER = "Fade Med ControlCenter";
 
 		FADE_WITH_NOTIFICATIONS_FOOTER = "Fader bort Widget når Notifikasjoner er synlig, bare anbefalt å vera av med iWidgets eller Under Notifikasjoner";
 		FADE_WITH_NOTIFICATIONS = "Fade Med Notifications";
+
+		DISABLE_FADE_WITH_NOWPLAYING = "Disable fade with NowPlaying";
+		DISABLE_FADE_WITH_NOWPLAYING_FOOTER = "NOTE: this will disable the fading of widgets when NowPlaying plugin is enable on the lockscreen. This was added after various request, but it is not recommended";
 
 		WIDGET_ACTIONS_TITLE = "HTML Actions";
 		LOCKHTML3 = LockHTML3;
