@@ -83,12 +83,16 @@
 
 		FADE_WHILE_CHARGING_FOOTER = "Descolora la Widget mientras Vista de Carga seta Visible";
 		FADE_WHILE_CHARGING = "Descolora Mientras seta Cargándose";
+		SHOW_WITH_BATTERY_TEXT = "Show With Battery Text Only";
 
 		FADE_WITH_CONTROL_CENTER_FOOTER = "Descolora la Widget mientras usas ControlCenter";
 		FADE_WITH_CONTROL_CENTER = "Descolora Con ControlCenter";
 
 		FADE_WITH_NOTIFICATIONS_FOOTER = "Descolora la Widget cuando las Notificaciones son visibles, solo recomendado estar desactivado cuando son iWidgets o Debajo de Notificaciones";
 		FADE_WITH_NOTIFICATIONS = "Descolora Con Notifications";
+		
+		DISABLE_FADE_WITH_NOWPLAYING = "Disable fade with NowPlaying";
+		DISABLE_FADE_WITH_NOWPLAYING_FOOTER = "NOTE: this will disable the fading of widgets when NowPlaying plugin is enable on the lockscreen. This was added after various request, but it is not recommended";
 
 		WIDGET_ACTIONS_TITLE = "Acciones HTML";
 		
