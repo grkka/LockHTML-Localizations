@@ -96,12 +96,15 @@
 
 		FADE_WHILE_CHARGING_FOOTER = "تلاشي الويدجت أثناء ظهور شاشة الشحن";
 		FADE_WHILE_CHARGING = "تلاشي أثناء الشحن";
+		SHOW_WITH_BATTERY_TEXT = "Show With Battery Text Only";
 
 		FADE_WITH_CONTROL_CENTER_FOOTER = "تلاشي الويدجت أثاء سحب مركز التحكم للأعلى";
 		FADE_WITH_CONTROL_CENTER = "تلاشي مع مركز التحكم";
 
 		FADE_WITH_NOTIFICATIONS_FOOTER = "تلاشي الويدجت أثناء ظهور التنبيهات, يُفضل إيقافها عند إستخدام iWidgets أو التنبيهات السفلية";
 		FADE_WITH_NOTIFICATIONS = "تلاشي مع التنبيهات";
+		DISABLE_FADE_WITH_NOWPLAYING = "Disable fade with NowPlaying";
+		DISABLE_FADE_WITH_NOWPLAYING_FOOTER = "NOTE: this will disable the fading of widgets when NowPlaying plugin is enable on the lockscreen. This was added after various request, but it is not recommended";
 
 		WIDGET_ACTIONS_TITLE = "إجراءات حركة HTML";
 		
