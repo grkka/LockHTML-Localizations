@@ -83,12 +83,16 @@
 
 		FADE_WHILE_CHARGING_FOOTER = "Dissolvi il Widget quando la Batteria è visibile";
 		FADE_WHILE_CHARGING = "Dissolvi in Carica";
+		SHOW_WITH_BATTERY_TEXT = "Show With Battery Text Only";
 
 		FADE_WITH_CONTROL_CENTER_FOOTER = "Dissolvi il Widget quando richiami il Control Center";
 		FADE_WITH_CONTROL_CENTER = "Dissolvi con Control Center";
 
 		FADE_WITH_NOTIFICATIONS_FOOTER = "Dissolvi il Widget mentre si ricevono Notifiche";
 		FADE_WITH_NOTIFICATIONS = "Dissolvi con Notifiche";
+		
+		DISABLE_FADE_WITH_NOWPLAYING = "Disable fade with NowPlaying";
+		DISABLE_FADE_WITH_NOWPLAYING_FOOTER = "NOTE: this will disable the fading of widgets when NowPlaying plugin is enable on the lockscreen. This was added after various request, but it is not recommended";
 
 		WIDGET_ACTIONS_TITLE = "Impostazioni HTML";
 		
