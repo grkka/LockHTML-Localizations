@@ -83,12 +83,16 @@
 
 		FADE_WHILE_CHARGING_FOOTER = "Fades the Widget while the ChargingView is Visible";
 		FADE_WHILE_CHARGING = "Fade While Charging";
+		SHOW_WITH_BATTERY_TEXT = "Show With Battery Text Only";
 
 		FADE_WITH_CONTROL_CENTER_FOOTER = "Fades the Widget while lifting ControlCenter";
 		FADE_WITH_CONTROL_CENTER = "Fade With ControlCenter";
 
 		FADE_WITH_NOTIFICATIONS_FOOTER = "Fades the Widget when Notifications are visible, only recommend to be off with iWidgets or Below Notifications";
 		FADE_WITH_NOTIFICATIONS = "Fade With Notifications";
+
+		DISABLE_FADE_WITH_NOWPLAYING = "Disable fade with NowPlaying";
+		DISABLE_FADE_WITH_NOWPLAYING_FOOTER = "NOTE: this will disable the fading of widgets when NowPlaying plugin is enable on the lockscreen. This was added after various request, but it is not recommended";
 
 		WIDGET_ACTIONS_TITLE = "Widget Actions";
 
