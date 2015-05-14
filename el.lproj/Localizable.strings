@@ -87,12 +87,16 @@
 
 		FADE_WHILE_CHARGING_FOOTER = "Εξασθένηση του widget όταν είναι ορατή η φόρτιση";
 		FADE_WHILE_CHARGING = "Να εξασθενεί κατά την φόρτιση";
+		SHOW_WITH_BATTERY_TEXT = "Show With Battery Text Only";
 
 		FADE_WITH_CONTROL_CENTER_FOOTER = "Εξασθένηση του widget κατά την εμφάνιση του Κέντρου ελέγχου";
 		FADE_WITH_CONTROL_CENTER = "Να εξασθενεί με το Κέντρο ελέγχου";
 
 		FADE_WITH_NOTIFICATIONS_FOOTER = "Εξασθένηση του widget όταν είναι ορατές οι Γνωστοποιήσεις, συστήνεται να είναι off με τα iWidgets ή χαμηλότερα από τις Γνωστοποιήσεις";
 		FADE_WITH_NOTIFICATIONS = "Να εξασθενεί με Γνωστοποιήσεις";
+		
+		DISABLE_FADE_WITH_NOWPLAYING = "Disable fade with NowPlaying";
+		DISABLE_FADE_WITH_NOWPLAYING_FOOTER = "NOTE: this will disable the fading of widgets when NowPlaying plugin is enable on the lockscreen. This was added after various request, but it is not recommended";
 
 		WIDGET_ACTIONS_TITLE = "Ενέργειες HTML";
 		LOCKHTML3 = LockHTML3;
