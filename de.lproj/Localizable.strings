@@ -82,12 +82,16 @@
 
 		FADE_WHILE_CHARGING_FOOTER = "Während des Ladevorgangs verblasst das Widget";
 		FADE_WHILE_CHARGING = "Beim Laden verblassen";
+		SHOW_WITH_BATTERY_TEXT = "Show With Battery Text Only";
 
 		FADE_WITH_CONTROL_CENTER_FOOTER = "Wenn das Kontrollzentrum geöffnet wird verblasst das Widget";
 		FADE_WITH_CONTROL_CENTER = "Bei geöffnetem Kontrollzentrum verblassen";
 
 		FADE_WITH_NOTIFICATIONS_FOOTER = "Während Mitteilungen sichtbar sind verblasst das Widget. Dekativierung nur bei iWidgets oder unter den Mitteilungen empfohlen.";
 		FADE_WITH_NOTIFICATIONS = "Bei sichtbaren Mitteilungen verblassen";
+		
+		DISABLE_FADE_WITH_NOWPLAYING = "Disable fade with NowPlaying";
+		DISABLE_FADE_WITH_NOWPLAYING_FOOTER = "NOTE: this will disable the fading of widgets when NowPlaying plugin is enable on the lockscreen. This was added after various request, but it is not recommended";
 
 		WIDGET_ACTIONS_TITLE = "HTML Aktionen";
 		
