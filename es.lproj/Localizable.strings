@@ -121,7 +121,7 @@
 		SHOW_STATUSBAR_TIME = "Muestra el tiempo en la statusbar";
 		HIDE_STATUSBAR = "Esconde la statusbar";
 		SMALL_STATUSBAR = "Statusbar mas pequeña";
-		HALF_HIDE_GRABBERS = "Esconde parcialmente los Grabbers";
+		HALF_HIDE_GRABBERS = "Esconde parcialmente las pestañas";
 		Disable_Controls_Fade_for_CC = "Deshabilita decoloración controles del CC";
 		CUSTOM_LOCKSCREEN_TIMEOUT = "Tiempo personalizado de LS";
 		5_SECONDS = "5 Segundos";
