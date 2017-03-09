@@ -16,7 +16,10 @@
 
 		SET_WIDGET_COORDINATES = "Set Widget Coordinates";
 		DISABLE_EDIT_MODE = "Disable Edit Mode";
+		ENABLE_EDIT_MODE = "Enable Edit Mode";
 		ONLY_Y_AXIS = "Only Y Axis";
+
+		DISABLE_WIGGLE_BORDER = "Disable Widget Wiggle Border";
 
 		CACHED_MODE_FOOTER = "You may have issues with widgets not updating properly. Requires Respring.";
 		CACHED_MODE = "Cached Mode";
@@ -47,8 +50,12 @@
 		DISABLE_CAMERA_GRABBER = "Disable Camera Grabber";
 		HIDE_UNLOCK_CHEVRON = "Hide Unlock Chevron";
 		HIDE_UNLOCK_TEXT = "Hide Unlock Text";
+		HIDE_TRY_AGAIN_TEXT = "Hide Try Again Text";
+		CUSTOM_UNLOCKTEXT_POSITION = "Custom Unlock Text Screen Position";
 		HIDE_DATE_ONLY = "Hide Date Only";
+		SHOW_CLOCK_ON_TODAY_PAGE = "Show Clock on Today Page";
 		HIDE_CLOCK_VIEW = "Hide Clock View";
+		HIDE_PAGE_CONTROL = "Hide Page Control";
 
 		HIDE_SETTINGS_TITLE = "Hide LS Elements";
 
@@ -90,9 +97,15 @@
 
 		FADE_WITH_NOTIFICATIONS_FOOTER = "Fades the Widget when Notifications are visible, only recommend to be off with iWidgets or Below Notifications";
 		FADE_WITH_NOTIFICATIONS = "Fade With Notifications";
+		ACTION_FOR_NOTIFICATIONS = "Action for Notifications:";
+		ACTIONS_WITH_NOTIFICATIONS_FOOTER = "Fade - Fades the Widget when Notifications are visible, only recommend to be off with iWidgets or Below Notifications\n\nSlide - Moves the widget to the specified Y(UP/DOWN) location when Notifications are visible"; 
 
 		DISABLE_FADE_WITH_NOWPLAYING = "Disable fade with NowPlaying";
 		DISABLE_FADE_WITH_NOWPLAYING_FOOTER = "NOTE: this will disable the fading of widgets when NowPlaying plugin is enable on the lockscreen. This was added after various request, but it is not recommended";
+		OFF = "Off";
+		FADE = "Fade";
+		SLIDE = "Slide";
+		ACTION_NOTIFICATIONS_Y = "Slide to Y Location (Default: 0.0)";
 
 		WIDGET_ACTIONS_TITLE = "Widget Actions";
 
@@ -121,6 +134,8 @@
 		SHOW_STATUSBAR_TIME = "Show StatusBar Time";
 		HIDE_STATUSBAR = "Hide StatusBar";
 		SMALL_STATUSBAR = "Small StatusBar";
+		CUSTOM_STATUSBAR = "Custom StausBar Color";
+		STATUSBAR_COLOR = "Status Bar Color";
 		HALF_HIDE_GRABBERS = "Partially Hide Grabbers";
 		Disable_Controls_Fade_for_CC = "Disable Controls Fade for CC";
 		CUSTOM_LOCKSCREEN_TIMEOUT = "Custom LS Timeout";
@@ -145,7 +160,8 @@
 		4_MINUTES = "4 Minutes";
 		5_MINUTES = "5 Minutes";
 		10_MINUTES = "10 Minutes";
-		1_HOUR = "1 Hour";	
+		1_HOUR = "1 Hour";
+		STATUSBAR_SETTINGS = "StatusBar Settings";
 
 		MISC_TITLE ="Misc Settings";
 
